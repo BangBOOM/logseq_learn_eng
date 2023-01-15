@@ -1,0 +1,9 @@
+- mature #card
+	- phonetic
+		- /məˈtjʊə/
+	- adjective
+		- Fully developed; grown up in terms of physical appearance, behaviour or thinking; ripe.
+		- Brought to a state of complete readiness.
+		- Profound; careful.
+		- Come to, or in a state of, completed suppuration.
+		- Suitable for adults only, due to sexual themes, violence, etc.

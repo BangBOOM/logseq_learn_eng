@@ -1,0 +1,5 @@
+- teeter-tottering
+	- verb
+		- To ride a seesaw.
+	- 跷跷板
+-

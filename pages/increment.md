@@ -1,0 +1,14 @@
+- increment #card
+	- phonetic
+		- /ˈɪŋkɹɪmn̩t/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/increment-uk.mp3"></audio>
+	- noun
+		- The action of increasing or becoming greater.
+		- The waxing of the moon.
+		- The amount of increase.
+		- An amplification without strict climax, as in the following passage: "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report, [...] think on these things."
+		- The amount of time added to a player's clock after each move.
+		- (grammar) A syllable in excess of the number of the nominative singular or the second-person singular present indicative.
+	- verb
+		- To increase by steps or by a step, especially by one.
+- increment on salary

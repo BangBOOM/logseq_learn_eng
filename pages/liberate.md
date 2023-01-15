@@ -1,0 +1,7 @@
+- liberate #card
+	- phonetic
+		- /ˈlɪbəɹeɪt/
+	- verb
+		- To set free, to make or allow to be free, particularly
+		- To acquire from an enemy during wartime, used especially of cities, regions, and other population centers.
+		- To acquire from another by theft or force: to steal, to rob.

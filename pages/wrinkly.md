@@ -1,0 +1,7 @@
+- wrinkly #card
+	- noun
+		- An old person.
+	- adjective
+		- Having wrinkles.
+		- 皱纹
+-
