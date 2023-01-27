@@ -1,0 +1,21 @@
+- trigger
+	- phonetic
+		- /ˈtɹɪɡə/
+	- noun
+		- A finger-operated lever used to fire a gun.
+		- A similar device used to activate any mechanism.
+		- An event that initiates others, or incites a response.
+		- A concept or image that upsets somebody.
+		- An event, experience or other stimulus that initiates a traumatic memory or action in a person.
+		- An electronic transducer allowing a drum, cymbal, etc. to control an electronic drum unit or similar device.
+		- A device that manually lengthens (or sometimes shortens) the slide or tubing of a brass instrument, allowing the pitch range to be altered while playing.
+		- A pulse in an electronic circuit that initiates some component.
+		- An SQL procedure that may be initiated when a record is inserted, updated or deleted; typically used to maintain referential integrity.
+		- A text string that, when received by a player, will cause the player to execute a certain command.
+		- A catch to hold the wheel of a carriage on a declivity.
+	- verb
+		- To fire a weapon.
+		- To initiate something.
+		- To spark a response, especially a negative emotional response, in (someone).
+		- To activate; to become active.
+-
