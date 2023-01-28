@@ -7,3 +7,13 @@
 		- Profound; careful.
 		- Come to, or in a state of, completed suppuration.
 		- Suitable for adults only, due to sexual themes, violence, etc.
+- maturity
+	- phonetic
+		- /məˈtʊəɹəti/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/maturity-us.mp3"></audio>
+	- noun
+		- The state of being mature, ready or ripe.
+		- When bodily growth has completed and/or reproduction can begin.
+		- The state of a debt obligation at the end of the term of maturation thereof, once all interest and any applicable fees have accrued to the principal.
+		- Date when payment is due.
+-
