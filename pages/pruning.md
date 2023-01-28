@@ -1,0 +1,15 @@
+- pruning
+	- phonetic
+		- /ˈpɹuːnɪŋ/
+	- verb
+		- To become wrinkled like a dried plum, as the fingers and toes do when kept submerged in water.
+	- verb
+		- To remove excess material from a tree or shrub; to trim, especially to make more healthy or productive.
+		- To cut down or shorten (by the removal of unnecessary material).
+		- To remove unnecessary branches from a tree data structure.
+		- To preen; to prepare; to dress.
+	- noun
+		- A removal of excess material from a tree or shrub.
+		- Something obtained by pruning, as a twig.
+		- A method of enumeration that allows the cutting out of parts of a decision tree.
+-
