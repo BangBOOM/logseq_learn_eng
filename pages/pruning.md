@@ -1,4 +1,4 @@
-- pruning
+- prune #card
 	- phonetic
 		- /ˈpɹuːnɪŋ/
 	- verb
@@ -12,4 +12,4 @@
 		- A removal of excess material from a tree or shrub.
 		- Something obtained by pruning, as a twig.
 		- A method of enumeration that allows the cutting out of parts of a decision tree.
--
+- 修剪
