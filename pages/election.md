@@ -1,0 +1,12 @@
+- election
+	- phonetic
+		- /əˈlɛkʃ(ə)n/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/election-us.mp3"></audio>
+	- noun
+		- A process of choosing a leader, members of parliament, councillors or other representatives by popular vote.
+		- The choice of a leader or representative by popular vote.
+		- An option that is selected.
+		- Any conscious choice.
+		- In Calvinism, God's predestination of saints including all of the elect.
+		- Those who are elected.
+-
