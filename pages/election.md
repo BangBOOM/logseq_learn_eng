@@ -9,4 +9,17 @@
 		- Any conscious choice.
 		- In Calvinism, God's predestination of saints including all of the elect.
 		- Those who are elected.
+- elect
+	- phonetic
+		- /iːˈlɛkt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/elect-us.mp3"></audio>
+	- noun
+		- One chosen or set apart.
+		- In Calvinist theology, one foreordained to Heaven. In other Christian theologies, someone chosen by God for salvation.
+	- verb
+		- To choose or make a decision (to do something)
+		- To choose (a candidate) in an election
+	- adjective
+		- Who has been elected in a specified post, but has not yet entered office.
+		- Chosen; taken by preference from among two or more.
 -
