@@ -23,3 +23,4 @@
 		- Who has been elected in a specified post, but has not yet entered office.
 		- Chosen; taken by preference from among two or more.
 -
+-
