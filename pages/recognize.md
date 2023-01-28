@@ -1,1 +1,13 @@
 - recognize
+	- phonetic
+		- /ˈɹɛkənaɪz/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/recognize-uk.mp3"></audio>
+	- verb
+		- To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.
+		- To acknowledge the existence or legality of; to treat as valid or worthy of consideration.
+		- (or with clause) To acknowledge or consider (as being a certain thing or having a certain quality or property).
+		- To realize or discover the nature of something; apprehend quality in.
+		- To show formal appreciation of, as with an award, commendation etc.
+		- To review; to examine again.
+		- To reconnoiter.
+		- To have the property to bind to specific antigens.
