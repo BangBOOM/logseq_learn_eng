@@ -1,4 +1,4 @@
-- politics
+- politics #card
 	- phonetic
 		- /ˈpɒl.ɪ.tɪks/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/politics-uk.mp3"></audio>

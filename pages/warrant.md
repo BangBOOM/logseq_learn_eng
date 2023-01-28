@@ -1,4 +1,4 @@
-- warrant
+- warrant #card
 	- phonetic
 		- undefined
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/warrant-au.mp3"></audio>
