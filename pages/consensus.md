@@ -1,0 +1,6 @@
+- consensus #card
+	- noun
+		- A process of decision-making that seeks widespread agreement among group members.
+		- General agreement among the members of a given group or community, each of which exercises some discretion in decision-making and follow-up action.
+		- Average projected value.
+- 一致意见

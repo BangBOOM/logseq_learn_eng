@@ -7,7 +7,7 @@
 		- Profound; careful.
 		- Come to, or in a state of, completed suppuration.
 		- Suitable for adults only, due to sexual themes, violence, etc.
-- maturity
+- maturity #card
 	- phonetic
 		- /məˈtʊəɹəti/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/maturity-us.mp3"></audio>
