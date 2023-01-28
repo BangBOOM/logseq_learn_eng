@@ -1,0 +1,15 @@
+- politics
+	- phonetic
+		- /ˈpɒl.ɪ.tɪks/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/politics-uk.mp3"></audio>
+	- verb
+		- To engage in political activity; politick.
+	- noun
+		- A methodology and activities associated with running a government, an organization, or a movement.
+		- The profession of conducting political affairs.
+		- (plural) One's political stands and opinions.
+		- Political maneuvers or diplomacy between people, groups, or organizations, especially involving power, influence or conflict.
+		- (singular) Real-world beliefs and social issues irrelevant to the topic at hand.
+-
+- 政治
+-
