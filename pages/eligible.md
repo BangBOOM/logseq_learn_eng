@@ -1,4 +1,4 @@
-- eligible
+- eligible #card
 	- phonetic
 		- /ˈɛlɪdʒəb(ə)l/
 	- noun
