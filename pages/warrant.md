@@ -1,0 +1,22 @@
+- warrant
+	- phonetic
+		- undefined
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/warrant-au.mp3"></audio>
+	- noun
+		- Authorization or certification; a sanction, as given by a superior.
+		- Something that provides assurance or confirmation; a guarantee or proof.
+		- An order that serves as authorization; especially a voucher authorizing payment or receipt of money.
+		- An option, usually issued together with another security and with a term at issue greater than a year, to buy other securities of the issuer.
+		- A judicial writ authorizing an officer to make a search, seizure, or arrest, or to execute a judgment.
+		- Short for warrant officer.
+		- A document certifying that a motor vehicle meets certain standards of mechanical soundness and safety; a warrant of fitness.
+		- A defender, a protector.
+		- Underclay in a coal mine.
+	- verb
+		- To protect, keep safe (from danger).
+		- To give (someone) an assurance or guarantee (of something); also, with a double object: to guarantee (someone something).
+		- To guarantee (something) to be (of a specified quality, value, etc.).
+		- To guarantee as being true; (colloquially) to believe strongly.
+		- To authorize; to give (someone) sanction or warrant (to do something).
+		- To justify; to give grounds for.
+-
