@@ -1,0 +1,1 @@
+- Word that I cannot immediately write or spell correctly as soon as I hear it.

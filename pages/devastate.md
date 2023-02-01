@@ -1,4 +1,10 @@
 - devastate #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-30T16:00:00.000Z
+  card-last-reviewed:: 2023-01-29T16:04:57.358Z
+  card-last-score:: 1
 	- phonetic
 		- /ˈdɛvəsteɪt/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/devastate-us.mp3"></audio>

@@ -1,0 +1,9 @@
+- incredibly
+	- phonetic
+		- /ɪŋˈkɹɛdɪbli/
+	- adverb
+		- (manner) In an incredible manner; not to be believed.
+		- (degree) To a great extent; extremely.
+		- Used to note the surprising or hard-to-believe nature of what is being said and suggest that it is nevertheless true.
+-
+-

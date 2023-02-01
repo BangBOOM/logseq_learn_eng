@@ -1,0 +1,10 @@
+- discriminate #card
+	- phonetic
+		- /dɪsˈkɹɪmɪneɪt/
+	- verb
+		- To make distinctions.
+		- (construed with against) To make decisions based on prejudice.
+		- To set apart as being different; to mark as different; to separate from another by discerning differences; to distinguish.
+	- adjective
+		- Having the difference marked; distinguished by certain tokens.
+-

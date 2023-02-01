@@ -1,0 +1,11 @@
+- elicit #card
+	- phonetic
+		- /ɪˈlɪsɪt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/elicit-us.mp3"></audio>
+	- verb
+		- To evoke, educe (emotions, feelings, responses, etc.); to generate, obtain, or provoke as a response or answer.
+		- To draw out, bring out, bring forth (something latent); to obtain information from someone or something.
+		- To use logic to arrive at truth; to derive by reason
+	- adjective
+		- Elicited; drawn out; made real; open; evident.
+-

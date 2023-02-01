@@ -1,9 +1,7 @@
 - daily todo
   template:: DailyTODO
 	- {{renderer :todomaster}}
-		- TODO one 2-5min youtube video 30mins
-		- TODO one IELTS Listen Test 1-2 section, 3-4 section  30mins
-		- TODO write a story with the words learned today, correct the story with DeepL  30mins
-		- TODO recite words 30mins
-		- TODO one reading practice 10mins
+		- TODO one 2-5min youtube video
+		- TODO one IELTS Listen Test 1-2 section, 3-4 section
+		- TODO one reading practice
 	-
