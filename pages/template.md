@@ -4,4 +4,5 @@
 		- TODO one 2-5min youtube video
 		- TODO one IELTS Listen Test 1-2 section, 3-4 section
 		- TODO one reading practice
-	-
+		- TODO memorizing words
+-
