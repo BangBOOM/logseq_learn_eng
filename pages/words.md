@@ -37,4 +37,11 @@
 	- ==Cure==: a substance or treatment that cures a disease or condition.
 	- ==Nut==: a fruit consisting of a hard or tough shell around an edible kernel.
 - {{embed ((63ee3da3-7f15-4e45-a73a-4bce5e5f1b84))}}
-	-
+  collapsed:: true
+	- ==Allure==: the quality of being powerfully and mysteriously attractive or fascinating¹²; or powerfully attract or charm¹. For example, people for whom gold holds no allure¹, or you could say that sponsors will really be allured by such opportunities¹.
+	- ==Arithmetic==: the branch of mathematics dealing with the properties and manipulation of numbers⁶⁸; or relating to arithmetic⁶. For example, he could do arithmetic in his head⁶, or you could say that this is an arithmetic problem⁶.
+	- ==Ascribe==: attribute something to a particular person or period¹²¹⁴; or regard a quality as belonging to someone or something¹². For example, a quotation ascribed to Thomas Cooper¹², or you could say that tough-mindedness is a quality commonly ascribed to top bosses¹².
+	- ==Sentient==: able to perceive or feel things¹²; or conscious, aware, responsive, or reactive¹. For example, she had been instructed from birth in the equality of all sentient life forms¹, or you could say that animals are sentient beings².
+	- ==Renaissance==: the revival of art and literature under the influence of classical models in the 14th–16th centuries⁶⁸; or a period of European history marked by a humanistic revival of classical scholarship and values⁹ [^10^]. For example, Leonardo da Vinci was a famous artist of the Renaissance⁸, or you could say that we are witnessing a renaissance of interest in environmental issues⁶.
+	- ==Identical==: similar in every detail¹¹¹²; or developed from a single fertilized ovum, and therefore of the same sex and usually very similar in appearance¹¹. For example, they were wearing identical coats¹², or you could say that they are identical twins¹¹.
+-
