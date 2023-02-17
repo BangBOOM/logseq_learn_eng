@@ -316,4 +316,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true}
  :journal/page-title-format "EEE, MM/dd/yyyy"
+ :publishing/all-pages-public? true
  }
