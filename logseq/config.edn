@@ -317,4 +317,5 @@
  :graph/settings {:journal? true}
  :journal/page-title-format "EEE, MM/dd/yyyy"
  :publishing/all-pages-public? true
+ :feature/enable-flashcards? false
  }
