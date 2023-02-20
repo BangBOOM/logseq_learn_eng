@@ -1,0 +1,8 @@
+- escalate
+	- phonetic
+		- /ˈɛs.kə.leɪt/
+	- verb
+		- To increase (something) in extent or intensity; to intensify or step up.
+		- In technical support, to transfer a customer, a problem, etc. to the next higher level of authority
+- **v.**不断恶化
+- **网络**升级；逐步升级；逐步升高

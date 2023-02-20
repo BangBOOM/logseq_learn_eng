@@ -1,0 +1,14 @@
+- casualty
+	- phonetic
+		- /ˈkæʒuəlti/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/casualty-us.mp3"></audio>
+	- noun
+		- Something that happens by chance, especially an unfortunate event; an accident, a disaster.
+		- A person suffering from injuries or who has been killed due to an accident or through an act of violence.
+		- Specifically, a person who has been killed (not only injured) due to an accident or through an act of violence; a fatality.
+		- A person in military service who becomes unavailable for duty, for any reason (notably death, injury, illness, capture, or desertion).
+		- The accident and emergency department of a hospital.
+		- An incidental charge or payment.
+		- Chance nature; randomness.
+- **n.**受害者；遇难者；毁坏物；损坏物
+- **网络**伤亡；伤亡人员；事故
