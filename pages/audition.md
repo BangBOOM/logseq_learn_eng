@@ -1,0 +1,15 @@
+- audition
+	- phonetic
+		- [ɔːˈdɪʃ(ə)n]
+	- noun
+		- A performance, by an aspiring performer, to demonstrate suitability or talent.
+		- The sense of hearing.
+		- An act of hearing; being heard.
+		- Something heard.
+	- verb
+		- To evaluate one or more performers in through an audition.
+		- To take part in such a performance.
+-
+- **v.**试演；试唱；试音；对（某人）面试
+- **n.**（拟进行表演者的）试演
+- **网络**切肤之爱；试听；劲舞团

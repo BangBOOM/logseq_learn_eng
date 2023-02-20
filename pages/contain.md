@@ -9,5 +9,6 @@
 		- (of a set etc.) To have as an element or subset.
 		- To restrain desire; to live in continence or chastity.
 -
-- **v.**包含；含有；==控制==；容纳
-- **网络**包括；遏制；包容
+- **v.**包含；含有；==控制==；==容纳==
+- **网络**包括；==遏制==；包容
+-

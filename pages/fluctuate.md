@@ -1,0 +1,11 @@
+- fluctuate
+	- phonetic
+		- [ˈflʌktʃueɪt]
+	- verb
+		- To vary irregularly; to swing.
+		- To undulate.
+		- To be irresolute; to waver.
+		- To cause to vary irregularly.
+-
+- **v.**（大小、数量、质量等）波动；（在…之间）起伏不定
+- **网络**涨落；变动；浮动
