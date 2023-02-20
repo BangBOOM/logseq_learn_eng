@@ -1,0 +1,12 @@
+- consciousness
+	- phonetic
+		- /ˈkɑnʃəsnəs/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/consciousness-us.mp3"></audio>
+	- noun
+		- The state of being conscious or aware; awareness.
+-
+- **n.**意识；知觉；观念；感觉
+- **网络**觉悟；自觉；神志
+-
+- [[conscious]]
+-

@@ -1,0 +1,13 @@
+- promote
+	- phonetic
+		- /pɹəˈmoʊt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/promote-us.mp3"></audio>
+	- verb
+		- To raise (someone) to a more important, responsible, or remunerative job or rank.
+		- To advocate or urge on behalf of (something or someone); to attempt to popularize or sell by means of advertising or publicity.
+		- To encourage, urge or incite.
+		- (usually in passive form) To elevate to a higher league.
+		- To increase the activity of (a catalyst) by changing its surface structure.
+		- To exchange (a pawn) for a queen or other piece when it reaches the eighth rank.
+		- To move on to a subsequent stage of education.
+	-

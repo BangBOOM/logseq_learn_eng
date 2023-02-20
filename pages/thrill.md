@@ -1,0 +1,15 @@
+- thrill
+	- phonetic
+		- [θɾ̪̊ɪɫ]
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/thrill-us.mp3"></audio>
+	- noun
+		- A trembling or quivering, especially one caused by emotion.
+		- A cause of sudden excitement; a kick.
+		- A slight quivering of the heart that accompanies a cardiac murmur.
+		- A breathing place or hole; a nostril, as of a bird.
+	- verb
+		- To suddenly excite someone, or to give someone great pleasure; to (figuratively) electrify; to experience such a sensation.
+		- To (cause something to) tremble or quiver.
+		- To perforate by a pointed instrument; to bore; to transfix; to drill.
+		- To hurl; to throw; to cast.
+-

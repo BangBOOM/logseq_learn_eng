@@ -1,0 +1,16 @@
+- conscious
+	- phonetic
+		- /ˈkɑn.ʃəs/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/conscious-us.mp3"></audio>
+	- noun
+		- The part of the mind that is aware of itself; the consciousness.
+	- adjective
+		- Alert, awake; with one's mental faculties active.
+		- Aware of one's own existence; aware of one's own awareness.
+		- Aware of, sensitive to; observing and noticing, or being strongly interested in or concerned about.
+		- Deliberate, intentional, done with awareness of what one is doing.
+		- Known or felt personally, internally by a person.
+		- Self-conscious.
+-
+- **adj.**意识到；注意到；神志清醒的；有知觉的
+- **网络**有意识的；意识到的；有意的

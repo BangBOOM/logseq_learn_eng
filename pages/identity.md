@@ -1,0 +1,17 @@
+- identity
+	- phonetic
+		- /aɪˈdɛntəti/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/identity-au.mp3"></audio>
+	- noun
+		- Sameness, identicalness; the quality or fact of (several specified things) being the same.
+		- The difference or character that marks off an individual or collective from the rest of the same kind, selfhood, sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themself.
+		- A name or persona—a mask or appearance one presents to the world—by which one is known.
+		- An equation which always holds true regardless of the choice of input variables.
+		- Any function which maps all elements of its domain to themselves.
+		- An element of an algebraic structure which, when applied to another element under an operation in that structure, yields this second element.
+		- A well-known or famous person.
+- **n.**身份；同一性；一致；特征
+- **网络**认同；身分；识别
+-
+- [[identify]]
+-

@@ -1,0 +1,17 @@
+- reserve
+	- phonetic
+		- /ɹɪˈzɝv/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/reserve-us.mp3"></audio>
+	- noun
+		- (behaviour) Restriction.
+		- That which is reserved or kept back, as for future use.
+		- (social) Something initially kept back for later use in a recreation.
+		- In exhibitions, a distinction indicating that the recipient will get a prize in the event of another person being disqualified.
+		- (calico printing) A resist.
+		- A preparation used on an object being electroplated to fix the limits of the deposit.
+	- verb
+		- To keep back; to retain.
+		- To keep in store for future or special use.
+		- To book in advance; to make a reservation.
+		- To make an exception of; to except.
+-

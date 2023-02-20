@@ -1,0 +1,15 @@
+- thrilled
+	- phonetic
+		- /θɹɪld/
+	- verb
+		- To suddenly excite someone, or to give someone great pleasure; to (figuratively) electrify; to experience such a sensation.
+		- To (cause something to) tremble or quiver.
+		- To perforate by a pointed instrument; to bore; to transfix; to drill.
+		- To hurl; to throw; to cast.
+	- verb
+		- To drill and thread in one operation, using a tool bit that cuts the hole and the threads in one series of computer-controlled movements.
+	- adjective
+		- Extremely excited or delighted.
+-
+- [[thrill]]
+-

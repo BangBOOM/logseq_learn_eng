@@ -1,0 +1,15 @@
+- faint
+	- phonetic
+		- /feɪnt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/faint-us.mp3"></audio>
+	- noun
+		- The act of fainting, syncope.
+		- The state of one who has fainted; a swoon.
+	- adjective
+		- (of a being) ==Lacking strength==; ==weak==; languid; inclined to lose consciousness
+		- ==Lacking courage==, spirit, or energy; cowardly; dejected
+		- Barely perceptible; not bright, or loud, or sharp
+		- Performed, done, or acted, weakly; not exhibiting vigor, strength, or energy
+		- Slight; minimal.
+-
+-
