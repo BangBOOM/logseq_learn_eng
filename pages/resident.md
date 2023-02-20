@@ -1,0 +1,21 @@
+- resident
+	- phonetic
+		- /ˈɹɛzɪd(ə)nt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/resident-uk.mp3"></audio>
+	- noun
+		- A person, animal or plant living at a certain location or in a certain area.
+		- A bird which does not migrate during the course of the year.
+		- A physician receiving specialized medical training.
+		- A diplomatic representative who resides at a foreign court, usually of inferior rank to an ambassador.
+		- A legal permanent resident, someone who maintains residency.
+	- adjective
+		- Dwelling, or having an abode, in a place for a continued length of time; residing on one's own estate.
+		- Based in a particular place; on hand; local.
+		- Fixed; stable; certain.
+		- (of memory) Currently loaded into RAM; contrasted with virtual memory.
+	- noun
+		- The head spy in a rezidentura.
+-
+- **n.**居民；住户；（旅馆的）住宿者；（美国的）高级专科住院实习医生
+- **adj.**（在某地）居住的
+- **网络**住院医师；住院医生；留鸟

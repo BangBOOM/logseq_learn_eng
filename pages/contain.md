@@ -1,0 +1,13 @@
+- contain
+	- phonetic
+		- /kənˈteɪn/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/contain-ca.mp3"></audio>
+	- verb
+		- To hold inside.
+		- To include as a part.
+		- To **put constraint upon**; to restrain; to confine; to keep within bounds.
+		- (of a set etc.) To have as an element or subset.
+		- To restrain desire; to live in continence or chastity.
+-
+- **v.**包含；含有；==控制==；容纳
+- **网络**包括；遏制；包容

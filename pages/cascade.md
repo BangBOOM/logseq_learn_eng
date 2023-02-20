@@ -15,3 +15,8 @@
 		- To arrange in a stepped series like a waterfall.
 		- To occur as a causal sequence.
 		- To vomit.
+- **n.**级联；阶梯；(陡岩落下的)瀑布；【园艺】人工瀑布
+- **v.**串联；泻；〔罕用语〕(使)成瀑布落下；奔流
+- **adj.**型栅的
+- **网络**层叠；小瀑布；串级
+-
