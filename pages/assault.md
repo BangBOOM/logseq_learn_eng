@@ -1,0 +1,16 @@
+- assault
+	- phonetic
+		- /əˈsɔːlt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/assault-us.mp3"></audio>
+	- noun
+		- A ==violent== onset or attack with physical means, for example blows, weapons, etc.
+		- A violent onset or attack with moral weapons, for example words, arguments, appeals, and the like
+		- An attempt to commit battery: a violent attempt, or willful effort with force or violence, to do hurt to another, but without necessarily touching his person, as by lifting a fist in a threatening manner, or by striking at him and missing him.
+		- The crime whose action is such an attempt.
+		- An act that causes someone to apprehend imminent bodily harm.
+		- The tort whose action is such an act.
+		- A non-competitive combat between two fencers.
+	- verb
+		- To ==attack==, physically or figuratively.
+		- To threaten or harass.
+-

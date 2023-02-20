@@ -1,0 +1,11 @@
+- sew
+	- phonetic
+		- /soʊ/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/sew-1-us.mp3"></audio>
+	- verb
+		- To use a needle to pass thread repeatedly through (pieces of fabric) in order to join them together.
+		- To use a needle to pass thread repeatedly through pieces of fabric in order to join them together.
+		- Followed by into: to enclose by sewing.
+- **v.**缝；缝制；缝补；做针线活
+- **网络**缝纫；缝合；搜索引擎观察(Search Engine Watch)
+-

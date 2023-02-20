@@ -1,0 +1,19 @@
+- glory
+	- phonetic
+		- /ˈɡlo(ː)ɹi/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/glory-us.mp3"></audio>
+	- noun
+		- Great or overwhelming beauty or splendour.
+		- Honour, admiration, or distinction, accorded by common consent to a person or thing; high reputation; renown.
+		- That quality in a person or thing which secures general praise or honour.
+		- Worship or praise.
+		- An optical phenomenon, consisting of concentric rings and somewhat similar to a rainbow, caused by sunlight or moonlight interacting with the water droplets that compose mist or clouds, centered on the antisolar or antilunar point.
+		- Victory; success.
+		- An emanation of light supposed to shine from beings that are specially holy. It is represented in art by rays of gold, or the like, proceeding from the head or body, or by a disk, or a mere line.
+		- The manifestation of the presence of God as perceived by humans in Abrahamic religions.
+		- Pride; boastfulness; arrogance.
+	- verb
+		- To exult with joy; to rejoice.
+		- To boast; to be proud.
+		- To shine radiantly.
+-

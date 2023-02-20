@@ -1,0 +1,11 @@
+- hypothetical
+	- phonetic
+		- /ˌhaɪpəˈθɛtɪkl/
+	- noun
+		- A hypothetical situation or proposition
+	- adjective
+		- Based upon a hypothesis; conjectural
+		- Conditional; contingent upon some hypothesis/antecedent
+-
+- **adj.**假设的；假定的
+- **网络**假说的；假设性；有前提的

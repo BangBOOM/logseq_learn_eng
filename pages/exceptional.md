@@ -1,0 +1,11 @@
+- exceptional
+	- phonetic
+		- /ɪkˈsɛpʃənəl/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/exceptional-us.mp3"></audio>
+	- noun
+		- An exception, or something having an exceptional value
+	- adjective
+		- Forming an exception; not ordinary; uncommon; rare.
+		- ==Better than the average==; superior due to exception or rarity.
+		- Corresponding to something of lower dimension under a birational correspondence.
+-
