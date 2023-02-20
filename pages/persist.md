@@ -16,4 +16,8 @@
 	- #+BEGIN_QUOTE
 	  my headache persisted for almost the entire day
 	  #+END_QUOTE
-	-
+	- Synoyms
+		- remain
+		- continue
+		- last
+-
