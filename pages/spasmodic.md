@@ -1,0 +1,14 @@
+- spasmodic
+	- phonetic
+		- undefined
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/spasmodic-au.mp3"></audio>
+	- noun
+		- A medicine for suppressing spasms.
+	- adjective
+		- Of or relating to a spasm; resembling a sudden contraction of the muscles.
+		- Convulsive; consisting of spasms.
+		- Intermittent or fitful; occurring in abrupt bursts.
+		- Erratic or unsustained.
+		- Of or relating to the spasmodic poets, a group of British Victorian poets who wrote introspective drama in verse.
+-
+- 间歇性的

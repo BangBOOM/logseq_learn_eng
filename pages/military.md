@@ -1,0 +1,12 @@
+- military
+	- phonetic
+		- /ˈmɪl.ɪ.tɛɹ.i/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/military-us.mp3"></audio>
+	- noun
+		- ==Armed== forces.
+	- adjective
+		- Characteristic of members of the armed forces.
+		- Relating to armed forces such as the army, marines, navy and air force (often as distinguished from civilians or police forces).
+		- Relating to war.
+		- Relating to armies or ground forces.
+-

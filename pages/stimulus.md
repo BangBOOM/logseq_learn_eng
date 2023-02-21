@@ -1,0 +1,10 @@
+- stimulus
+	- phonetic
+		- /ˈstɪm.jə.ləs/
+	- noun
+		- Any external phenomenon that has an influence on a system, by triggering or modifying an internal phenomenon.
+		- Something external that elicits or influences a physiological or psychological activity or response.
+		- Anything effectively impinging upon any of the sensory apparatuses of a living organism, including physical phenomena both internal and external to the body.
+		- Anything that induces a person to take action.
+-
+- 激励因素

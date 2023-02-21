@@ -1,0 +1,8 @@
+- headquarters
+	- phonetic
+		- /ˌhɛd.ˈkwɔː.təz/
+	- noun
+		- The military installation from which troops are commanded and orders are issued; the military unit consisting of a commander and his support staff.
+		- The ==center== of an organization's operations or administration.
+		- A place of concentrated activity or influence.
+-
