@@ -1,0 +1,13 @@
+- culminate
+	- phonetic
+		- /ˈkʌlmɪneɪt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/culminate-uk.mp3"></audio>
+	- verb
+		- Of a heavenly body, to be at the highest point, reach its greatest altitude.
+		- To reach the (physical) summit, highest point, peak etc.
+		- To reach a climax; to come to the decisive point (especially as an end or conclusion).
+		- To finalize, bring to a conclusion, form the climax of.
+	- adjective
+		- Relating to the culmen
+-
+- 到达...的顶点；到达高潮；告终

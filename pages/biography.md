@@ -1,0 +1,12 @@
+- biography
+	- phonetic
+		- /baɪˈɑːɡɹəfi/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/biography-us.mp3"></audio>
+	- noun
+		- A person's life story, especially one published.
+		- The art of writing this kind of story.
+	- verb
+		- To write a biography of.
+-
+- homograph
+	- biology 生物学
