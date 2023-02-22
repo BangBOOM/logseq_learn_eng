@@ -1,0 +1,13 @@
+- hover
+	- phonetic
+		- /ˈhʌ.vɚ/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/hover-1-us.mp3"></audio>
+	- noun
+		- The act of hovering
+	- verb
+		- To float in the air.
+		- To linger or hang in one place, especially in an uncertain manner.
+		- To waver, or be uncertain.
+		- To place the cursor over a hyperlink or icon without clicking.
+-
+- 盘旋

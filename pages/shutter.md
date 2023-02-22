@@ -1,0 +1,14 @@
+- shutter
+	- phonetic
+		- /ˈʃʌtɚ/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/shutter-us.mp3"></audio>
+	- noun
+		- One who shuts or closes something.
+		- (usually in the plural) Protective panels, usually wooden, placed over ==windows== to block out the light.
+		- The==part of a camera,==  normally closed, that opens for a controlled period of time to let light in when taking a picture.
+	- verb
+		- To close shutters covering.
+		- To close up (a building) for a prolonged period of inoccupancy.
+		- To cancel or terminate.
+-
+- 百叶窗；快门

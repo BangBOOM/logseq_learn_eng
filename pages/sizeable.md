@@ -1,0 +1,4 @@
+- sizeable
+	- adjective
+		- ==Fairly large.==
+-
