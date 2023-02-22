@@ -1,0 +1,9 @@
+- doctoral
+	- phonetic
+		- /ˈdɒktəɹəl/
+	- adjective
+		- Relating to a doctorate.
+		- Pertaining to a medical doctor or physician.
+-
+- [[doctorate]]
+-
