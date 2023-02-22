@@ -1,0 +1,12 @@
+- grave
+	- phonetic
+		- /ɡɹeɪv/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/grave-us.mp3"></audio>
+	- noun
+		- An excavation in the earth as a place of burial
+		- Any place of interment; a tomb; a sepulcher.
+		- (by extension) ==Death==, destruction.
+-
+- n 坟墓
+- adj. 严重的，严肃的
+-

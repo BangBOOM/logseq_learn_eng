@@ -1,0 +1,49 @@
+- pot
+	- phonetic
+		- undefined
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/pot-au.mp3"></audio>
+	- noun
+	  collapsed:: true
+		- A flat-bottomed vessel (usually metal) used for cooking food.
+		- Various similar open-topped vessels, particularly
+		- Pothole, sinkhole, vertical cave e.g. Rowten Pot
+		- Ruin or deterioration.
+		- An iron hat with a broad brim worn as a helmet.
+		- A pot-shaped non-conducting (usually ceramic) stand that supports an electrified rail while insulating it from the ground.
+		- The money available to be won in a hand of poker or a round of other games of chance; any sum of money being used as an enticement.
+		- A favorite: a heavily-backed horse.
+		- A plaster cast.
+	- verb
+	  collapsed:: true
+		- To put (something) into a pot.
+		- To preserve by bottling or canning.
+		- To cause a ball to fall into a pocket.
+		- To be capable of being potted.
+		- To shoot with a firearm.
+		- To take a pot shot, or haphazard shot, with a firearm.
+		- To secure; gain; win; bag.
+		- To send someone to gaol, expeditiously.
+		- To tipple; to drink.
+		- To drain (e.g. sugar of the molasses) in a perforated cask.
+		- To seat a person, usually a young child, on a potty or toilet, typically during toilet teaching.
+		- To apply a plaster cast to a broken limb.
+	- noun
+		- Marijuana
+	- noun
+		- A simple electromechanical device used to control resistance or voltage (often to adjust sound volume) in an electronic device by rotating or sliding when manipulated by a human thumb, screwdriver, etc.
+	- noun
+		- A large, swollen, or protruding abdomen; a paunch.
+		- A potbelly stove.
+		- A Vietnamese Pot-bellied pig.
+	- noun
+		- A small portion or dose of a liquid which is medicinal, poisonous, or magical.
+	- noun
+		- A shot taken at an easy or random target.
+		- Criticism of an easy target; a cheap shot.
+	- noun
+		- An old size of paper, 12.5 × 15 inches.
+-
+- n 壶， 罐
+- v 罐装;  载入盆中；射杀
+-
+- a pot of coffee

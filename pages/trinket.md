@@ -1,0 +1,12 @@
+- trinket
+	- phonetic
+		- /ˈtɹɪŋkɪt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/trinket-us.mp3"></audio>
+	- noun
+		- A small showy ornament or piece of jewelry
+		- ==A thing of little value; a trifle; a toy.==
+		- A three-cornered sail formerly carried on a ship's foremast, probably on a lateen yard.
+		- A knife; a cutting tool.
+	- verb
+		- To give trinkets; to court favour.
+-

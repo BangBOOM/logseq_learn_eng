@@ -1,0 +1,12 @@
+- supper
+	- phonetic
+		- /ˈsʌpɚ/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/supper-us.mp3"></audio>
+	- noun
+		- ==Food consumed before going to bed.==
+		- ==Any meal eaten in the evening==; dinner eaten in the evening, rather than at noon.
+		- A meal from a chip shop consisting of a deep-fried food with chips.
+	- verb
+		- To consume a snack before retiring.
+		- To eat dinner (see above).
+-
