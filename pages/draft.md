@@ -1,0 +1,38 @@
+- draft
+	- phonetic
+		- /dɹæft/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/draft-us.mp3"></audio>
+	- noun
+		- A current of air, usually coming into a room or vehicle.
+		- Draw through a flue of gasses (smoke) resulting from a combustion process.
+		- An act of drinking.
+		- The quantity of liquid (such as water, alcohol, or medicine) drunk in one swallow.
+		- A dose (of medicine, alcohol, etc.)
+		- Beer drawn from a cask or keg rather than a bottle or can.
+		- Depth of water needed to float a ship; depth below the water line to the bottom of a vessel's hull; depth of water drawn by a vessel.
+		- An early version of a written work (such as a book or e-mail) or drawing.
+		- A preliminary sketch or outline for a plan.
+		- A cheque, an order for money to be paid.
+		- Conscription, the system of forcing people to serve in the military.
+		- A system of forcing or convincing people to take an elected position.
+		- A system of assigning rookie players to professional sports teams.
+		- The pulling force (tension) on couplers and draft gear during a slack stretched condition.
+		- The bevel given to the pattern for a casting, so that it can be drawn from the sand without damaging the mould.
+		- (possibly obsolete) The action or an act (especially of a beast of burden or vehicle) of pulling something along or back.
+		- (possibly obsolete) The act of drawing in a net for fish.
+		- (possibly obsolete) That which is drawn in; a catch, a haul.
+		- A quantity that is requisitioned or drawn out from a larger population.
+	- verb
+		- To write a first version, make a preliminary sketch.
+		- To draw in outline; to make a draught, sketch, or plan of, as in architectural and mechanical drawing.
+		- To write a law.
+		- To conscript a person, force a person to serve in some capacity, especially in the military.
+		- To select someone (or something) for a particular role or purpose.
+		- To select and separate an animal or animals from a group.
+		- To select a rookie player onto a professional sports team.
+		- To follow very closely (behind another vehicle), thereby providing an aerodynamic advantage to both lead and follower and conserving energy or increasing speed.
+		- To draw out; to call forth.
+		- To draw fibers out of a clump, for spinning in the production of yarn.
+	- adjective
+		- Referring to drinks on tap, in contrast to bottled.
+		- Referring to animals used for pulling heavy loads.

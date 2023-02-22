@@ -1,0 +1,13 @@
+- federal
+	- phonetic
+		- /ˈfɛdəɹəl/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/federal-us.mp3"></audio>
+	- noun
+		- A law-enforcement official of the FBI; a federal agent.
+		- A supporter of federation.
+		- A unionist soldier in the American Civil War.
+	- adjective
+		- Pertaining to a league or treaty; derived from an agreement or covenant between parties, especially between nations.
+		- Pertaining to the national government level, as opposed to state, provincial, county, city, or town.
+-
+- 联邦的

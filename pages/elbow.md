@@ -1,0 +1,16 @@
+- elbow
+	- phonetic
+		- /ˈɛl.boʊ/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/elbow-us.mp3"></audio>
+	- noun
+		- The joint between the upper arm and the forearm.
+		- (by extension) Any turn or bend like that of the elbow, in a wall, building, coastline, etc.; an angular or jointed part of any structure, such as the raised arm of a chair or sofa, or a short pipe fitting, turning at an angle or bent.
+		- A detective.
+		- Part of a basketball court located at the intersection of the free-throw line and the free-throw lane.
+		- A hit with the elbow.
+	- verb
+		- To push with the elbow.
+		- (by extension) To nudge, jostle or push.
+-
+- noun 肘部
+- verb 用肘推挤；跻身；排挤

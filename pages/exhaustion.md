@@ -1,0 +1,14 @@
+- exhaustion
+	- phonetic
+		- /ɪɡˈzɔːs.tʃən/
+	- noun
+		- The point of complete depletion, of the state of being used up.
+		- Supreme tiredness; having exhausted energy.
+		- The removal (by percolation etc) of an active medicinal constituent from plant material.
+		- The removal of all air from a vessel (the creation of a vacuum).
+		- An exhaustive procedure
+-
+- [[exhaust]]   verb 耗尽
+- [[exhaustive]] adj 详细的，全面的
+- [[exhausted]]  adj 耗尽的，精疲力竭的
+-
