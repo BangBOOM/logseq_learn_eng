@@ -1,0 +1,11 @@
+- revise
+	- phonetic
+		- /ɹɪˈvaɪ̯z/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/revise-au.mp3"></audio>
+	- noun
+		- A review or a revision.
+		- A second proof sheet; a proof sheet taken after the first or a subsequent correction.
+	- verb
+		- To look at again, to reflect on.
+		- To review, alter and amend, especially of written material.
+		- To look over again (something previously written or learned), especially in preparation for an examination.

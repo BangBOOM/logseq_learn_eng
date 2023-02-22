@@ -1,0 +1,9 @@
+- requisition
+	- phonetic
+		-
+	- noun
+		- A formal request for something.
+		- That which is required by authority; especially, a quota of supplies or necessaries.
+		- A call; an invitation; a summons.
+	- verb
+		- To demand something, especially for a military need of staff, supplies or transport.

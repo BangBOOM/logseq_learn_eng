@@ -1,0 +1,16 @@
+- panic
+	- phonetic
+		- undefined
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/panic-us.mp3"></audio>
+	- noun
+		- Overpowering fright, often affecting groups of people or animals.
+		- Rapid reduction in asset prices due to broad efforts to raise cash in anticipation of continuing decline in asset prices.
+		- A kernel panic or system crash.
+	- verb
+		- To feel overwhelming fear.
+		- To cause somebody to panic.
+		- (by extension) To crash.
+		- (by extension) To cause the system to crash.
+	- adjective
+		- Pertaining to the god Pan.
+		- Of fear, fright etc: sudden or overwhelming (attributed by the ancient Greeks to the influence of Pan).
