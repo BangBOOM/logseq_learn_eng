@@ -1,0 +1,8 @@
+- burglar
+	- phonetic
+		- /ˈbɜːɡlə(ɹ)/
+	- noun
+		- A person who breaks in to premises with the intent of committing ==theft==
+	- verb
+		- To commit burglary; to burgle.
+-

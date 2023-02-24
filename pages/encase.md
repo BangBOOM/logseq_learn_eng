@@ -1,0 +1,5 @@
+- encase
+	- phonetic
+		-
+	- verb
+		- To enclose, as in a case.
