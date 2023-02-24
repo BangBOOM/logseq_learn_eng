@@ -1,0 +1,22 @@
+- slack
+	- phonetic
+		- /slæk/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/slack-au.mp3"></audio>
+	- noun
+		- The part of anything that hangs loose, having no strain upon it.
+		- A tidal marsh or shallow that periodically fills and drains.
+	- adjective
+		- (normally said of a rope) Lax; not tense; not firmly extended.
+		- Weak; not holding fast.
+		- Lacking diligence or care; not earnest or eager.
+		- Not active,successful, or violent.
+		- Excess; surplus to requirements.
+		- Vulgar; sexually explicit, especially in dancehall music.
+	- adverb
+		- Slackly.
+-
+- **adj.**不紧的；松弛的；萧条的；冷清的
+- **adv.**松弛地；缓慢地；无力地；不充分地
+- **n.**（绳索的）松弛部分；闲置部分；煤屑；煤末
+- **v.**懈怠；怠惰；偷懒
+- **网络**懈怠的；懒散的；淡季

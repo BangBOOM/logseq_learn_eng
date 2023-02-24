@@ -1,0 +1,13 @@
+- slacken
+	- phonetic
+		- /ˈslæ.kən/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/slacken-uk.mp3"></audio>
+	- verb
+		- To==gradually decrease==  in intensity or tautness; to become slack.
+		- To make slack, less taut, or less intense.
+		- To deprive of cohesion by combining chemically with water; to slake.
+-
+- **v.**减缓；（使）变得松弛
+- **网络**放松；放慢；减弱
+-
+- [[slack]]

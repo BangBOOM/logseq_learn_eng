@@ -1,0 +1,10 @@
+- formality
+	- phonetic
+		- /fɔːˈmæləti/
+	- noun
+		- The state of being formal.
+		- Something said or done as a matter of form.
+		- A customary ritual without new or unique meaning.
+		- (countable) A specific requirement for obtaining a legal status, conducting a transaction, etc.
+-
+- 礼节， 正式的手续

@@ -1,0 +1,10 @@
+- plagiarize
+	- phonetic
+		- /ˈpleɪdʒəraɪz/
+	- verb
+		- To use, and pass off as one's own, someone else's writing, speech, ideas, or other intellectual or creative work, especially in an academic context; to commit plagiarism.
+-
+- 抄袭
+-
+- none [[plagiarism]]
+-

@@ -1,0 +1,13 @@
+- initiative
+	- phonetic
+		- /ɪˈnɪʃətɪv/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/initiative-us.mp3"></audio>
+	- noun
+		- A beginning; a first move.
+		- A new development; a fresh approach to something; a new way of dealing with a problem.
+		- The ability to act first or on one's own.
+		- An issue to be voted on, brought to the ballot by a sufficient number of signatures from among the voting public.
+	- adjective
+		- Serving to initiate; inceptive; initiatory; introductory; preliminary.
+		- In which voter initiatives can be brought to the ballot.
+-
