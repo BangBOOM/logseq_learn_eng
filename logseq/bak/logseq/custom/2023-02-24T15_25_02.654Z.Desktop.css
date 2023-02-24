@@ -12,7 +12,7 @@ iframe[id^=youtube-player] {
 
 
 /* change font */
-@import url('https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.css');
+@import url('${font_url}');
 :root {
   --ls-font-family: LXGW WenKai;
 }
