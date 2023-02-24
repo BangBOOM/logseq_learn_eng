@@ -1,5 +1,9 @@
 - encase
 	- phonetic
-		-
+		- /ɪnˈkeɪs/
 	- verb
 		- To enclose, as in a case.
+		- to surround or cover something completely, especially to protect it
+-
+- 把 ...装入
+-
