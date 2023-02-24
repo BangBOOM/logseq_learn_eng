@@ -11,6 +11,9 @@ iframe[id^=youtube-player] {
 /* YouTube Video */
 
 
+/* change font */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-webfont/1.7.0/style.css');
 :root {
-  --ls-font-family: "LXGW WenKai", sans-serif;
+  --ls-font-family: LXGW WenKai;
 }
+/* change font */

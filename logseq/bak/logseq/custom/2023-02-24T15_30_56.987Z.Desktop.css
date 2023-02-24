@@ -1,0 +1,27 @@
+/* This must be the first line of the custom.css with other import rules */
+@import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");
+
+/* You can also add other styles below to override the default theme values */
+
+/* YouTube Video */
+iframe[id^=youtube-player] {
+    aspect-ratio: 16/9;
+    height: auto;
+}
+/* YouTube Video */
+
+
+/* change font */
+<link rel="stylesheet" href="https://npm.elemecdn.com/lxgw-wenkai-screen-webfont/style.css" media="print" onload="this.media='all'">
+:root {
+  --ls-font-family: "LXGW WenKai Screen", sans-serif;
+}
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber, .CodeMirror-scroll, .CodeMirror-sizer {
+        font-family: "LXGW WenKai Screen", sans-serif !important;
+        font-weight: ${settings.code_font_weight} !important;
+        font-size: ${settings.code_font_size} !important;
+        color: ${settings.code_color} !important;
+      }
+
+/* change font */
