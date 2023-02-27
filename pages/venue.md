@@ -1,0 +1,11 @@
+- venue
+	- phonetic
+		- /ˈvɛnjuː/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/venue-uk.mp3"></audio>
+	- noun
+		- A ==theater==, auditorium, arena, or other==area designated for sporting or entertainment events== .
+		- A neighborhood or near place; the place or county in which anything is alleged to have happened; also, the place where an action is laid, or the district from which a jury comes.
+		- A bout; a hit; a turn. See venew.
+		- Sport venue: a stadium or similar building in which a sporting competition is held.
+-
+- n. 审判地；犯罪地点；发生地点；集合地点；活动场地

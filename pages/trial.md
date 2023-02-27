@@ -20,6 +20,6 @@
 		- To flatten (grass, etc.) by walking through it; to tread down.
 		- To take advantage of the ignorance of; to impose upon.
 -
-- noun. 审判；试验；试用；考验
-- adj. 试验的
-- v. 审判
+- noun. 审判；试验；试用；考验；
+- adj. 试验的；
+- v. 审判；试用
