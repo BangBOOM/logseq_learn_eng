@@ -1,0 +1,25 @@
+- trail
+	- phonetic
+		- /tɹeɪl/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/trail-us.mp3"></audio>
+	- noun
+		- The track or indication marking the route followed by something that has passed, such as the footprints of animal on land or the contrail of an airplane in the sky.
+		- A route for travel over land, especially a narrow, unpaved pathway for use by hikers, horseback riders, etc.
+		- A trailer broadcast on television for a forthcoming film or programme.
+		- A walk in which all the edges are distinct.
+	- verb
+		- To follow behind (someone or something); to tail (someone or something).
+		- To drag (something) behind on the ground.
+		- To leave (a trail of).
+		- To show a trailer of (a film, TV show etc.); to release or publish a preview of (a report etc.) in advance of the full publication.
+		- To hang or drag loosely behind; to move with a slow sweeping motion.
+		- To run or climb like certain plants.
+		- To drag oneself lazily or reluctantly along.
+		- To be losing, to be behind in a competition.
+		- To carry (a firearm) with the breech near the ground and the upper part inclined forward, the piece being held by the right hand near the middle.
+		- To flatten (grass, etc.) by walking through it; to tread down.
+		- To take advantage of the ignorance of; to impose upon.
+-
+- noun. 审判；试验；试用；考验
+- adj. 试验的
+- v. 审判

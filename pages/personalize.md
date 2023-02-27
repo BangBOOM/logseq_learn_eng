@@ -1,0 +1,6 @@
+- personalize
+	- verb
+		- To adapt something to the needs or tastes of an individual
+		- To represent something abstract as a person; to embody
+-
+- 私人化

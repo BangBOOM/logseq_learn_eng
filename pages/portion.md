@@ -1,0 +1,14 @@
+- portion
+	- phonetic
+		- /ˈpɔɹʃən/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/portion-us.mp3"></audio>
+	- noun
+		- An allocated amount.
+		- That which is divided off or separated, as a part from a whole; a separated part of anything.
+		- One's fate; lot.
+		- The part of an estate given or falling to a child or heir; an inheritance.
+		- A wife's fortune; a dowry.
+	- verb
+		- To divide into amounts, as for allocation to specific purposes.
+		- To endow with a portion or inheritance.
+-

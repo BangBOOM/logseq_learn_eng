@@ -6,4 +6,4 @@
 		- ==Quick to change one’s opinion== or allegiance; insincere; not loyal or reliable.
 		- ==Changeable==.
 -
-- 易变的
+- 易变的， 不忠诚的，不专一的

@@ -1,0 +1,12 @@
+- manipulate
+	- phonetic
+		- /məˈnɪpjʊleɪt/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/manipulate-us.mp3"></audio>
+	- verb
+		- To move, arrange or operate something using the hands
+		- To influence, manage, direct, control or tamper with something
+		- To handle and move a body part, either as an examination or for a therapeutic purpose
+		- To influence or control someone in order to achieve a specific purpose, especially one that is unknown to the one being manipulated and beneficial to the manipulator; to use
+		- To use the hands, especially in scientific experiments.
+-
+- v. 操控

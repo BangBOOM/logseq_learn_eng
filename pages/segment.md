@@ -1,0 +1,15 @@
+- segment
+	- phonetic
+		- /ˈseɡmənt/
+	- noun
+		- A length of some object.
+		- One of the parts into which any body naturally separates or is divided; a part divided or cut off; a section; a portion.
+		- A [[portion]].
+		- ==A part of== a broadcast program, devoted to a topic.
+		- An Ethernet bus.
+		- A region of memory or a fragment of an executable file designated to contain a particular part of a program.
+		- (travel) A portion of an itinerary: it may be a flight or train between two cities, or a car or hotel booked in a particular city.
+		- A bearing representing only one part of a rounded object.
+	- verb
+		- To ==divide== into segments or ==sections==.
+-
