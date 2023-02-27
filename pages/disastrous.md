@@ -1,0 +1,11 @@
+- disastrous
+	- phonetic
+		- /dɪˈzɑːstɹəs/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/disastrous-uk.mp3"></audio>
+	- adjective
+		- Of the nature of a disaster; calamitous.
+		- Foreboding disaster; ill-omened.
+-
+- 灾难性的
+-
+- [[disaster]]
