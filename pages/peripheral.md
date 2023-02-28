@@ -1,0 +1,19 @@
+- peripheral
+	- phonetic
+		- /pəˈɹɪf(ə)ɹ(ə)l/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/peripheral-us.mp3"></audio>
+	- noun
+		- A peripheral device.
+		- Perhipheral vision.
+	- adjective
+		- On the periphery or boundary.
+		- Beside the point.
+		- Unimportant.
+		- Auxiliary.
+		- Related to or located in the peripheral nervous system.
+-
+- not as important as the main aim, part, etc. of something
+- connected with the outer edge of a particular area
+-
+- adj. 周边的；次要的
+- n. 外围设备

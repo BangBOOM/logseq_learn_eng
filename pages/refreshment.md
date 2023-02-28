@@ -1,0 +1,7 @@
+- refreshment
+	- phonetic
+		- /ɹɪˈfɹeʃ.mənt/
+	- noun
+		- The action of refreshing; a means of restoring strength, energy or vigour.
+		- A light snack or drink.
+-
