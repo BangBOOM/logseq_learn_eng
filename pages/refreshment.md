@@ -5,3 +5,7 @@
 		- The action of refreshing; a means of restoring strength, energy or vigour.
 		- A light snack or drink.
 -
+- drinks and small amounts of food that provided or sold to people in public place or at a public event.
+- the fact of making sb. feel stronger or less tried or hot.
+-
+- 饮料；神清气爽
