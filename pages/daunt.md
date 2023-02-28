@@ -1,0 +1,7 @@
+- daunt
+	- phonetic
+		- /dɔːnt/
+	- verb
+		- To discourage, intimidate.
+		- To ==overwhelm==.
+-
