@@ -1,0 +1,10 @@
+- disregard
+	- phonetic
+		- /dɪsɹɪˈɡɑːd/
+	- noun
+		- The act or state of deliberately ==not paying attention or caring about==; misregard.
+	- ==verb==
+		- To ignore; pay no attention to.
+-
+- [[regard]]
+-

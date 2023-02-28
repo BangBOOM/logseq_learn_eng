@@ -2,6 +2,8 @@
 	- phonetic
 		- /dɔːnt/
 	- verb
-		- To discourage, intimidate.
+		- To ==discourage==, intimidate.
 		- To ==overwhelm==.
 -
+- daunt somebody: to make somebody ==feel nervous and less confident== about doing something
+- 使气馁
