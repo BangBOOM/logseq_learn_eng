@@ -1,0 +1,11 @@
+- floral
+	- phonetic
+		- /ˈflɔːɹəl/
+	- noun
+		- A design involving flowers
+		- A perfume redolent of flowers
+	- adjective
+		- Of, pertaining to, or connected with flowers.
+		- Portraying flowers, especially in a stylized way.
+-
+-

@@ -1,0 +1,11 @@
+- waterproof
+	- noun
+		- A substance or preparation for rendering cloth, leather, etc., impervious to water.
+		- Cloth made waterproof, or any article made of such cloth, or of other waterproof material, as rubber; especially, an outer garment made of such material.
+	- verb
+		- To make waterproof or water-resistant.
+	- adjective
+		- ==Unaffected by water.==
+		- Made of or covered with material that doesn't allow water in.
+		- Incapable of failing; unassailable.
+-

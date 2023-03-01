@@ -1,0 +1,21 @@
+- stitch
+	- phonetic
+		- /stɪt͡ʃ/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/stitch-us.mp3"></audio>
+	- noun
+		- ==A single pass of a needle in sewing==; the loop or turn of the thread thus made.
+		- An arrangement of stitches in sewing, or method of stitching in some particular way or style.
+		- An intense stabbing pain under the lower edge of the ribcage, brought on by exercise.
+		- A single turn of the thread round a needle in knitting; a link, or loop, of yarn
+		- An arrangement of stitches in knitting, or method of knitting in some particular way or style.
+		- A space of work taken up, or gone over, in a single pass of the needle.
+		- A fastening, as of thread or wire, through the back of a book to connect the pages.
+		- (by extension) Any space passed over; distance.
+		- A local sharp pain; an acute pain, like the piercing of a needle.
+		- A contortion, or twist.
+		- Any least part of a fabric or dress.
+		- A furrow.
+		- The space between two double furrows.
+-
+- n. 针脚，缝线
+- v.

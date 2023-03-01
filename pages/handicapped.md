@@ -1,0 +1,13 @@
+- handicapped
+	- verb
+		- To encumber with a handicap in any contest.
+		- (by extension) To place at disadvantage.
+		- To estimate betting odds.
+	- noun
+		- A disabled person.
+	- adjective
+		- Having a handicap.
+		- Limited by an impediment of some kind.
+-
+- adj. 残疾的
+- v. handicap 障碍，妨碍

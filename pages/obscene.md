@@ -1,0 +1,12 @@
+- obscene
+	- phonetic
+		- /əbˈsin/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/obscene-us.mp3"></audio>
+	- adjective
+		- ==Offensive== to current standards of decency or morality.
+		- Lewd or lustful.
+		- Disgusting or repulsive.
+		- (by extension) Beyond all reason; excessive.
+		- Liable to corrupt or deprave.
+-
+- 污秽的，下流的，可憎的

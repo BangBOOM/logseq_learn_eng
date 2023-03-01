@@ -1,0 +1,6 @@
+- inwards
+	- phonetic
+		- /ˈɪnwədz/
+	- adverb
+		- Towards the inside.
+-
