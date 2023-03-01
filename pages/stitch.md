@@ -18,4 +18,4 @@
 		- The space between two double furrows.
 -
 - n. 针脚，缝线
-- v.
+- v. 缝合，缝
