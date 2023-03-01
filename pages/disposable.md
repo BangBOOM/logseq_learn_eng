@@ -1,0 +1,11 @@
+- disposable
+	- phonetic
+		- /dɪsˈpəʊzəbl̩/
+	- noun
+		- Any object that is designed to be disposed of rather than refilled or repaired.
+	- adjective
+		- That can be disposed of.
+		- That is designed to be discarded rather than reused, refilled or repaired.
+		- Available to be used.
+-
+- 一次性的，可自由使用的

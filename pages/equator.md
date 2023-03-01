@@ -1,0 +1,11 @@
+- equator
+	- phonetic
+		- /ɪˈkweɪ.tə/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/equator-uk.mp3"></audio>
+	- noun
+		- (often “the Equator”) An imaginary great circle around the Earth, equidistant from the two poles, and dividing earth's surface into the northern and southern hemisphere.
+		- A similar great circle on any sphere, especially on a celestial body, or on other reasonably symmetrical three-dimensional body.
+		- The midline of any generally spherical object, such as a fruit or vegetable, that has identifiable poles.
+		- The celestial equator.
+-
+- 赤道
