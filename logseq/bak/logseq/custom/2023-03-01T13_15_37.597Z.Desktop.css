@@ -11,5 +11,5 @@ iframe[id^=youtube-player] {
 /* YouTube Video */
 
 :root {
-  --ls-font-family: LXGW WenKai, sans-serif;
+  --ls-font-family: "LXGW WenKai", sans-serif;
 }
