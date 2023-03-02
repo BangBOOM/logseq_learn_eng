@@ -1,0 +1,9 @@
+- inadequate
+	- phonetic
+		- /ɪnˈædəkwɪt/
+	- noun
+		- An individual who is inadequate.
+	- adjective
+		- not enough; not good enough
+		- Not adequate; ==not fit for the purpose==
+-

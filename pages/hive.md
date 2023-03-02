@@ -1,0 +1,15 @@
+- hive
+	- phonetic
+		- /haɪv/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/hive-uk.mp3"></audio>
+	- noun
+		- A structure, whether artificial or natural, for housing a swarm of honeybees.
+		- The bees of one hive; a swarm of bees.
+		- A place swarming with busy occupants; a crowd.
+		- A section of the registry.
+	- verb
+		- To enter or possess a hive.
+		- To form a hive-like entity.
+		- To collect into a hive.
+		- To store in a hive or similarly.
+		- To take shelter or lodgings together; to reside in a collective body.

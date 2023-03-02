@@ -1,0 +1,8 @@
+- estrange
+	- phonetic
+		- /əˈstɹeɪndʒ/
+	- verb
+		- To cause to ==feel less close or friendly==; alienate. To cease contact with (particularly of a family member or spouse, especially in form estranged).
+		- To remove from an accustomed place or set of associations.
+-
+- 疏远

@@ -1,0 +1,11 @@
+- creep
+	- phonetic
+		- /kɹiːp/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/creep-us.mp3"></audio>
+	- verb
+		- (of people or animals) to ==move slowly, quietly and carefully,==  because you do not want to be seen or heard
+			- *I crept up the stairs, trying not to wake my parents.*
+			- *I heard someone creeping around the house.*
+		- to move with your body close to the ground; to move slowly on your hands and knees
+-
+- 爬行；匍匐；蹑手蹑脚走，汗毛直竖
