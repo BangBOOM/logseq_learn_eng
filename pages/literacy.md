@@ -1,0 +1,8 @@
+- literacy
+	- /ˈlɪtərəsi/
+	- noun
+		- the ability to read and write
+			- *a campaign to promote adult literacy*
+			- *basic ***literacy skills****
+			- *Most of the students here need help with ***literacy and numeracy***.*
+		-
