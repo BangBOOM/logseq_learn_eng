@@ -1,0 +1,14 @@
+- insurance
+	- phonetic
+		- /ɪnˈʃʊərəns/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/insurance-us.mp3"></audio>
+	- noun
+		- A means of indemnity against a future occurrence of an uncertain event.
+		- The business of providing insurance.
+		- Any attempt to forestall an unfavorable event.
+		- A bet made after the deal, which pays off if the dealer has blackjack.
+		- An insurance policy
+	- noun oxford
+		- an arrangement with a company in which you pay them regular amounts of money and they agree to pay the costs, for example, if you die or are ill, or if you lose or damage something
+		-
+-
