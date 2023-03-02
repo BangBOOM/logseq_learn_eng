@@ -1,0 +1,12 @@
+- /əˈmjuːzmənt/
+- noun
+	- [uncountable] the ==feeling== that you have when you ==enjoy== something that is funny
+		- *She could not hide her amusement at the way he was dancing.*
+		- **to somebody's amusement** *To my amusement he couldn't get the door open.*
+		- **with amusement** *Her eyes twinkled with amusement.*
+		- *His son was a continuous source of amusement and delight to him.*
+	- [countable, usually plural] a game, an activity, etc. that provides entertainment and pleasure
+		- *traditional seaside amusements including boats, go-karts and a funfair*
+		- *She disapproved of popular amusements such as fairs.*
+	- [uncountable] the fact of being entertained by something
+		- *What do you do for amusement around here?*

@@ -1,10 +1,11 @@
 - /sfɪə(r)/
 - noun
-	- *(geometry)* a solid figure that is completely round, with every point on its surface at an equal distance from the centre
+	- *(geometry)* a solid figure that is ==completely round==, with every point on its surface at an equal distance from the centre
 		- *The Earth is not a perfect sphere.*
 		- ![solid](https://www.oxfordlearnersdictionaries.com/media/english/fullsize/s/sol/solid/solids.png)
 	- any object that is completely round, for example a ball
-	- an area of activity, influence or interest; a particular section of societySYNONYM [**domain**](https://www.oxfordlearnersdictionaries.com/definition/english/domain)
+	- ==an area of activity==, influence or interest; a particular section of societySYNONYM [**domain**](https://www.oxfordlearnersdictionaries.com/definition/english/domain)
 		- *the political sphere*
 		- *This area was formerly within the ***sphere of influence*** of the US.*
 		- *He and I moved in totally different social spheres.*
+-
