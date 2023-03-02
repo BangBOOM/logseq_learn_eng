@@ -1,1 +1,10 @@
-- slump
+- /slʌmp/
+- verb
+	- [intransitive] to fall in price, value, number, etc., suddenly and by a large amount. SYNONYM [**drop**](https://www.oxfordlearnersdictionaries.com/definition/english/drop_1)
+		- *Sales have slumped this year.*
+		- **slump by something** *Profits slumped by over 50 per cent.*
+		- **slump (from something) (to something)** *The paper's circulation has slumped to 90 000.*
+	- [intransitive] **+ adv./prep.** to sit or fall down heavily
+		- *Exhausted, he slumped down in his chair.*
+		- *She slumped to her knees.*
+	-
