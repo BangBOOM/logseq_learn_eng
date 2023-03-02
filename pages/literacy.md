@@ -5,4 +5,8 @@
 			- *a campaign to promote adult literacy*
 			- *basic ***literacy skills****
 			- *Most of the students here need help with ***literacy and numeracy***.*
-		-
+		- (in compounds)knowledge or skills in a specific area
+			- ***financial/health literacy***
+			- *We’re looking to hire an assistant with a high level of ***digital literacy***.*
+-
+- illiterate 文盲的，文盲的人
