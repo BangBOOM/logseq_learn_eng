@@ -1,0 +1,10 @@
+- /træk/
+- noun
+- [countable, uncountable] [rails](https://www.oxfordlearnersdictionaries.com/definition/english/rail_1#rail_topg_1) (= metal bars) that a train moves along
+	- ==***railway/railroad tracks***==
+	- *We crossed the rail/train track.*
+	- *India has thousands of miles of track.*
+	- *Many branch lines were closed, and the tracks lifted.*
+- [countable] a piece of ground with a special surface for people, cars, etc. to have races or to drive on
+-
+- 踪迹

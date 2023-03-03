@@ -9,4 +9,5 @@
 - (of a person) not able to stand up straight, usually as a result of being old or ill
 	- *a small bent old woman*
 	- *He was ***bent double*** with laughter.*
+- *(British English, informal)* (of a person in authority) dishonest
 -
