@@ -1,0 +1,6 @@
+- adjective
+- dɪˈkrepɪt/
+- (of a thing or person) very old and not in good condition or health
+	- *a decrepit building/vehicle*
+	- *a decrepit old house*
+	- *I'm feeling old and decrepit.*

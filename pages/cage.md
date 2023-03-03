@@ -1,0 +1,5 @@
+- noun
+- /keɪdʒ/
+- a structure made of metal bars or wire in which animals or birds are kept
+	- *a birdcage*
+	- *I don’t like seeing animals in cages.*

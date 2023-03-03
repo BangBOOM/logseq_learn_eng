@@ -1,0 +1,12 @@
+- *adjective*
+- /bent/
+- not straight
+	- *a piece of bent wire*
+	- *Do this exercise with your knees bent (= not with your legs straight).*
+	- *The lamp post got bent in the crash.*
+	- *Lock your elbows in a slightly bent position.*
+	- bent tree
+- (of a person) not able to stand up straight, usually as a result of being old or ill
+	- *a small bent old woman*
+	- *He was ***bent double*** with laughter.*
+-
