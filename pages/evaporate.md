@@ -1,3 +1,9 @@
 - verb
 - /ɪˈvæpəreɪt/
-- [intransitive, transitive] if a liquid **evaporates** or if something **evaporates** it, it changes into a gas, especially [steam](https://www.oxfordlearnersdictionaries.com/definition/english/steam_1#steam_sng_1)
+- [intransitive, transitive] if a liquid **evaporates** or if something **evaporates** it, it changes into a gas, especially [steam](https://www.oxfordlearnersdictionaries.com/definition/english/steam_1#steam_sng_1) 蒸发
+	- *Heat until all the water has evaporated.*
+	- **evaporate something*** **The sun is constantly evaporating the earth's moisture.*
+- [intransitive] to disappear, especially by gradually ==becoming less and less==
+	- *Her confidence had now completely evaporated.*
+	- *Their lead in the opinion polls evaporated overnight.*
+-
