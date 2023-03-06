@@ -1,0 +1,6 @@
+- noun
+	- /ɪnˈtɜːnɪst/
+	- *(North American English)*
+	- a doctor who is a specialist in the treatment of diseases of the organs inside the body and who does not usually do medical operations
+		- *Consult an internist if you are experiencing any of the following symptoms: …*
+-

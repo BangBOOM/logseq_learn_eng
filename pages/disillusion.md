@@ -4,4 +4,6 @@
 		- *I hate to disillusion you, but not everyone is as honest as you.*
 - noun
 	- *(also ***disillusionment***)*
-	-
+	- **disillusion (with something)** the state of being [disillusioned](https://www.oxfordlearnersdictionaries.com/definition/english/disillusioned)
+		- *There is growing disillusion with the political system.*
+-

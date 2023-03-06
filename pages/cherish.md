@@ -1,0 +1,5 @@
+- verb
+	- /ˈtʃerɪʃ/
+	- **cherish somebody/something** to love somebody/something very much and want to protect them or it
+		- *Children need to be cherished.*
+		- *her ***most cherished possession****
