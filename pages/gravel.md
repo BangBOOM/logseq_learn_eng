@@ -1,0 +1,8 @@
+- /ˈɡrævl/
+- *noun*
+	- ==small stones==, often used to make the surface of paths and roads
+		- *A gravel drive led up to the house.*
+		- *a ***gravel pit*** (= a place where [gravel](https://www.oxfordlearnersdictionaries.com/definition/english/gravel) is taken from the ground)*
+		- *Put a layer of fine gravel into the bottom of the plant pot for drainage.*
+		- *We parked on the gravel at the side of the road.*
+-

@@ -9,3 +9,4 @@
 		- **it grieves somebody that…** *It grieved him that he could do nothing to help her.*
 		- **grieve somebody** *Their lack of interest grieved her.*
 		- **it grieves somebody to do something** *It grieved her to leave.*
+-
