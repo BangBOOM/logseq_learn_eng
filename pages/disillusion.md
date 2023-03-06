@@ -1,4 +1,7 @@
 - verb
 	- /ˌdɪsɪˈluːʒn/
-	- **disillusion somebody** to destroy somebody’s belief in or good opinion of somebody/something
--
+	- **disillusion somebody** to ==destroy somebody’s belief== in or good opinion of somebody/something
+		- *I hate to disillusion you, but not everyone is as honest as you.*
+- noun
+	- *(also ***disillusionment***)*
+	-
