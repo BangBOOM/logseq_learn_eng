@@ -1,0 +1,11 @@
+- /ɡreɪs/
+- noun
+	- ## of movement
+		- [uncountable] an attractive quality of movement that is smooth and done with control; a simple and beautiful quality
+			- *She moves with the natural grace of a ballerina.*
+			- *a debut album of uncommon grace and beauty*
+	- ## behaviour
+		- [uncountable] a quality of behaviour that is ==polite== and pleasant and deserves respect
+			- *He conducted himself with grace and dignity throughout the trial.*
+-
+- 优雅

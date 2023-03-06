@@ -8,5 +8,7 @@
 		- **grief at something** *He could not hide his grief at her death.*
 	- [countable, usually singular] something that makes you feel very sad
 		- *It was a grief to them that they had no children.*
-	-
+	- [uncountable] *(informal)* problems and worry
+		- *He caused his parents a lot of grief.*
+		- *Such behaviour can cause considerable grief.*
 -
