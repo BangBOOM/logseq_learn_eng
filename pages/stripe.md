@@ -1,0 +1,7 @@
+- /straɪp/
+	- noun
+		- ==a long narrow line of colour==, that is a different colour from the areas next to it
+			- *a zebra’s black and white stripes*
+			- *a white tablecloth with red stripes*
+		-
+-
