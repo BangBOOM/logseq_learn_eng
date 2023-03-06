@@ -1,0 +1,12 @@
+- /ɡriːf/
+- noun
+	- [uncountable, countable] ==a very sad feeling==, especially when somebody dies
+		- *She was overcome with grief when her husband died.*
+		- *They were able to share their common joys and griefs.*
+		- **grief for somebody/something** *her grief for her dead husband*
+		- **grief over something** *grief over the loss of friends*
+		- **grief at something** *He could not hide his grief at her death.*
+	- [countable, usually singular] something that makes you feel very sad
+		- *It was a grief to them that they had no children.*
+	-
+-
