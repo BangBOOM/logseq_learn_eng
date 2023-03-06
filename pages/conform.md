@@ -7,5 +7,7 @@
 	- SYNONYM [**comply**](https://www.oxfordlearnersdictionaries.com/definition/english/comply)
 	- *The building does not conform with safety regulations.*
 - [intransitive] to agree with or match something
-	-
+	- **conform to something** *It did not conform to the usual stereotype of an industrial city.*
+	- **conform with something** *Wordsworth changed the ideas of his poem to conform with his later religious and political opinions.*
+	- *the attempt to force science to conform with a political or social ideology*
 -

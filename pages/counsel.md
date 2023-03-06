@@ -1,0 +1,10 @@
+- /ˈkaʊnsl/
+- noun
+	- [uncountable, countable]
+	- *(formal)* ==advice==, especially given by older people or experts; a piece of advice
+		- *Listen to the counsel of your elders.*
+		- *In the end, wiser counsels prevailed.*
+	- *(law)* a lawyer or group of lawyers representing somebody in court
+		- *to be represented by counsel*
+		- *the ***counsel for the defence/prosecution****
+		-
