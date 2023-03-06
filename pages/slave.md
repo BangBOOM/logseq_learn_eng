@@ -3,6 +3,11 @@
 		- a person who is owned by another person and is forced to work for and obey them
 			- *A ***former slave***, he graduated from Clafflin University in South Carolina.*
 			- *She treated her daughter like a slave.*
-		- *A ***former slave***, he graduated from Clafflin University in South Carolina.* wa
-		- *She treated her daughter like a slave.*
+		- a person who is so strongly influenced by something that they cannot live without it, or cannot make their own decisions. 完全依赖于
+			- **slave of something** *We are slaves of the motor car.*
+			- **slave to something** *Sue's a slave to fashion.*
+- verb
+	- **slave (away) (at something)** to work very hard
+		- *I've been slaving away all day trying to get this work finished.*
+		- *I haven't got time to spend hours ***slaving over a hot stove*** (= doing a lot of cooking).*
 -

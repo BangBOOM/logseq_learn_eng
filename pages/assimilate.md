@@ -1,0 +1,2 @@
+- /əˈsɪməleɪt/
+	- [transitive] **assimilate something** to fully understand an idea or some information so that you are able to use it yourself
