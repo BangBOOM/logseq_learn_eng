@@ -1,2 +1,12 @@
+- verb
 - /əˈsɪməleɪt/
-	- [transitive] **assimilate something** to fully understand an idea or some information so that you are able to use it yourself
+	- [transitive] **assimilate something** ==to fully understand an idea== or some information so that you are able to use it yourself
+		- *The committee will need time to assimilate this report.*
+		- *Some people can only assimilate change gradually.*
+	- [intransitive, transitive] to become, or cause somebody to become, a part of a country or community rather than remaining in a separate group
+		- **assimilate (into/to something)** *New arrivals feel the pressure to assimilate.*
+		- *As a Chinese teen I tried to assimilate into Canadian culture.*
+		- **assimilate somebody (into/to something)** *Over time different groups were assimilated into the community.*
+	- [transitive, often passive] to make an idea, a person’s attitude, etc. fit into something or be acceptable
+		- **be assimilated into/to something** *These changes were gradually assimilated into everyday life.*
+-
