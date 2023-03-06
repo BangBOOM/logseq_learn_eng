@@ -1,0 +1,4 @@
+- *adjective*
+	- /ˌænɪkˈdəʊtl/
+	- (of an account or evidence)==possibly not true or accurate==  because it is based on personal accounts rather than facts or research
+-
