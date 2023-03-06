@@ -1,0 +1,7 @@
+- verb
+- /ˈsɜːkəmskraɪb/
+- [often passive] *(formal)* to ==limit somebody/something’s freedom==, rights, power, etc.
+	- SYNONYM [**restrict**](https://www.oxfordlearnersdictionaries.com/definition/english/restrict)
+	- **be circumscribed (by something)** *The power of the monarchy was circumscribed by the new law.*
+	- **be circumscribed in something** *They are still highly circumscribed in their authority.*
+- **circumscribe something** *(specialist)* to ==draw a circle== around another shape

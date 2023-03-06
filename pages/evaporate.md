@@ -1,0 +1,3 @@
+- verb
+- /ɪˈvæpəreɪt/
+- [intransitive, transitive] if a liquid **evaporates** or if something **evaporates** it, it changes into a gas, especially [steam](https://www.oxfordlearnersdictionaries.com/definition/english/steam_1#steam_sng_1)
