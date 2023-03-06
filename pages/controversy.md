@@ -1,0 +1,7 @@
+- /ˈkɒntrəvɜːsi/
+- noun
+- **controversy (over/about/surrounding somebody/something)** public discussion and ==argument== about something that many people strongly disagree about, think is bad, or are shocked by
+	- *to ***arouse/cause controversy****
+	- *a bitter ***controversy over/about*** the site of the new airport*
+	- *The controversy surrounding his latest movie continues.*
+-

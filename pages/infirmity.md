@@ -1,0 +1,6 @@
+- noun
+- /ɪnˈfɜːməti/
+- [uncountable, countable]
+- (plural **infirmities**)
+- weakness or illness over a long period
+	-
