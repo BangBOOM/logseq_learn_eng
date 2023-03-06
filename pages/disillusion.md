@@ -1,0 +1,4 @@
+- verb
+	- /ˌdɪsɪˈluːʒn/
+	- **disillusion somebody** to destroy somebody’s belief in or good opinion of somebody/something
+-
