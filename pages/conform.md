@@ -1,0 +1,11 @@
+- verb
+- /kənˈfɔːm/
+- [intransitive] to ==behave and think in the same way== as most other people in a group or society
+	- *There is considerable pressure on teenagers to conform.*
+	- **conform to something*** **He refused to conform to the local customs.*
+- [intransitive] **conform to/with something** ==to obey a rule==, law, etc.
+	- SYNONYM [**comply**](https://www.oxfordlearnersdictionaries.com/definition/english/comply)
+	- *The building does not conform with safety regulations.*
+- [intransitive] to agree with or match something
+	-
+-
