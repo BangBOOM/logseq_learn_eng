@@ -1,0 +1,10 @@
+- /ɪnˈvəʊk/
+- verb
+- **invoke something (against somebody)** to mention or use a law, rule, etc. as a reason for doing something
+	- *It is unlikely that libel laws will be invoked.*
+- **invoke somebody/something** to mention a person, a theory, an example, etc. to support your opinions or ideas, or as a reason for something
+	- *She invoked several eminent scholars to back up her argument.*
+- **invoke something** to mention somebody’s name to make people feel a particular thing or act in a particular way
+	- *His name was invoked as a symbol of the revolution.*
+- **invoke somebody** to make a request (for help) to somebody, especially a god
+-

@@ -3,4 +3,5 @@
 - [uncountable, countable]
 - (plural **infirmities**)
 - weakness or illness over a long period
-	-
+	- *They may face sickness or infirmity.*
+	- *physical infirmities*
