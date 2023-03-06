@@ -1,4 +1,5 @@
 - *adjective*
 	- /ˌænɪkˈdəʊtl/
-	- (of an account or evidence)==possibly not true or accurate==  because it is based on personal accounts rather than facts or research
+	- (of an account or evidence) ==possibly not true or accurate==  because it is based on personal accounts rather than facts or research
+		- *Anecdotal evidence suggests there were irregularities at the polling station on the day of the election.*
 -

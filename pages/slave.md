@@ -1,0 +1,8 @@
+- noun
+	- /sleɪv/
+		- a person who is owned by another person and is forced to work for and obey them
+			- *A ***former slave***, he graduated from Clafflin University in South Carolina.*
+			- *She treated her daughter like a slave.*
+		- *A ***former slave***, he graduated from Clafflin University in South Carolina.* wa
+		- *She treated her daughter like a slave.*
+-
