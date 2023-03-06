@@ -1,0 +1,5 @@
+- /stræp/
+- noun
+	- a narrow piece of leather, cloth or other material that is used to fasten something, keep something in place, carry something or hold onto something
+		- *the shoulder straps of her dress*
+		- *a watch with a leather strap*

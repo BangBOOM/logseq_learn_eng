@@ -1,3 +1,9 @@
 - /strɪp/
 - noun
-	-
+	- a long narrow piece of paper, metal, cloth, etc.
+		- *a strip of material*
+		- *Cut the meat into strips.*
+	- a long narrow area of land, sea, etc.
+		- *the Gaza Strip*
+		- *a tiny strip of garden*
+		- *The islands are separated by a narrow strip of water.*
