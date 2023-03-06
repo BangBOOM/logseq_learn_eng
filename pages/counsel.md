@@ -7,4 +7,11 @@
 	- *(law)* a lawyer or group of lawyers representing somebody in court
 		- *to be represented by counsel*
 		- *the ***counsel for the defence/prosecution****
-		-
+		- ***defence/prosecuting counsel***
+		- *The court then heard counsel for the dead woman's father.*
+- verb
+	- **counsel somebody** to listen to and give support or professional advice to somebody who needs help
+		- *Therapists were brought in to counsel the bereaved.*
+	- *(formal)* to advise somebody to do something
+		- **counsel something** *Most experts counsel caution in such cases.*
+		- **counsel somebody to do something** *He counselled them to give up the plan.*
