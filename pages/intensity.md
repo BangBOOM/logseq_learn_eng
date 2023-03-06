@@ -6,3 +6,4 @@
 		- *intensity of feeling/concentration/relief*
 		- *He was watching her with an intensity that was unnerving.*
 		- *The storm resumed with even greater intensity.*
+-
