@@ -7,4 +7,5 @@
 - **invoke something** to mention somebody’s name to make people feel a particular thing or act in a particular way
 	- *His name was invoked as a symbol of the revolution.*
 - **invoke somebody** to make a request (for help) to somebody, especially a god
--
+- **invoke something** to make somebody have a particular feeling or imagine a particular scene
+	- *The opening paragraph invokes a vision of England in the early Middle Ages.*

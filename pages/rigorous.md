@@ -1,0 +1,12 @@
+- /ˈrɪɡərəs/
+- adjective
+- done carefully and with ==a lot of attention to detail==
+	- SYNONYM [**thorough**](https://www.oxfordlearnersdictionaries.com/definition/english/thorough)
+	- *a ***rigorous analysis****
+	- *Few people have gone into the topic in such rigorous detail.*
+	- *The second team adopted a much more rigorous approach to the problem.*
+- demanding that particular rules, processes, etc. are strictly followed
+	- SYNONYM [**strict**](https://www.oxfordlearnersdictionaries.com/definition/english/strict)
+	- *The work failed to meet their ***rigorous standards***.*
+	- *They may benefit from the rigorous application of competition policy.*
+-
