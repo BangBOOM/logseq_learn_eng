@@ -3,3 +3,7 @@
 	- **cherish somebody/something** to love somebody/something very much and want to protect them or it
 		- *Children need to be cherished.*
 		- *her ***most cherished possession****
+	- **cherish something** to keep an idea, a hope or a pleasant feeling in your mind for a long time
+		- ***Cherish the memory*** of those days in Paris.
+		- *He cherishes the hope that one day they will meet again.*
+-
