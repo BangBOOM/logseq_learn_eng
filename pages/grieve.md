@@ -1,0 +1,11 @@
+- /ɡriːv/
+- verb
+	- [intransitive, transitive] to feel very sad, especially because somebody has died
+		- **grieve (for/over somebody/something)** *They are still grieving for their dead child.*
+		- *grieving relatives*
+		- **grieve somebody/something** *She grieved the death of her husband.*
+	- [transitive] *(formal)* to make you feel very sad
+		- SYNONYM [**pain**](https://www.oxfordlearnersdictionaries.com/definition/english/pain_2)
+		- **it grieves somebody that…** *It grieved him that he could do nothing to help her.*
+		- **grieve somebody** *Their lack of interest grieved her.*
+		- **it grieves somebody to do something** *It grieved her to leave.*
