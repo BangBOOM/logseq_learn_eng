@@ -4,4 +4,11 @@
 		- *a ***fire/safety hazard****
 		- **hazard to somebody/something** *Growing levels of pollution represent a serious ***health hazard*** to the local population.*
 		- **hazard of (doing) something** *Everybody is aware of the hazards of smoking.*
-	-
+- verb
+	- to make a suggestion or guess that you know may be wrong
+		- **hazard something*** **Would you like to ***hazard a guess***?*
+		- **+ speech** *‘Is it Tom you're going with?’ she hazarded.*
+		- **hazard that…** *I would hazard that she is the sole reason we are here.*
+	- **hazard something** *(formal)* to risk something or put it in danger
+		- SYNONYM [**endanger**](https://www.oxfordlearnersdictionaries.com/definition/english/endanger)
+		- *Careless drivers hazard other people's lives as well as their own.*
