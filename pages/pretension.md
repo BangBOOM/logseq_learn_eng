@@ -9,3 +9,5 @@
 		- *She was charmed by his lack of pretension.*
 	- a claim to be or to do something
 		- **pretension to (doing) something** *a building with no pretensions to architectural merit*
+		- **pretension (to do something)** *The movie makes no pretension to reproduce life.*
+-

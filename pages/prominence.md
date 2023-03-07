@@ -1,0 +1,9 @@
+- noun
+- /ˈprɒmɪnəns/
+- the state of being important, well known or easy to notice
+	- *a young actor who has recently ***risen to prominence****
+	- *The newspapers have given undue prominence to the story.*
+	- *She has achieved a prominence she hardly deserves.*
+	- **prominence as something*** **The study of local history has ***gained prominence*** as an academic discipline.*
+-
+-
