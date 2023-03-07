@@ -1,0 +1,4 @@
+- /skjuː/
+- verb
+- [transitive] **skew something** to change or influence something with the result that it is not accurate, fair, normal, etc.
+-
