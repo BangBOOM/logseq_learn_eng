@@ -1,4 +1,11 @@
 - /ˈpɒvəti/
 - noun
-- [uncountable] the state of being poor
-	-
+	- [uncountable] the state of being poor
+		- **in poverty** *Many elderly people live in poverty.*
+		- *For him music was the way out of poverty.*
+		- *to tackle/combat/fight poverty*
+		- *to escape/flee poverty*
+	- [uncountable, singular] a lack of something; poor quality
+		- *There is a poverty of colour in her work.*
+		- *His work displays a poverty of imagination.*
+-

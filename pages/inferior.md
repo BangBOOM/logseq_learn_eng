@@ -1,0 +1,7 @@
+- adjective
+- /ɪnˈfɪəriə(r)/
+- not good or not as good as somebody/something else
+	- *of inferior quality*
+	- *inferior goods*
+	- *to make somebody ***feel inferior****
+	-
