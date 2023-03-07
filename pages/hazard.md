@@ -1,0 +1,7 @@
+- /ˈhæzəd/
+- noun
+	- something that can be dangerous or cause damage
+		- *a ***fire/safety hazard****
+		- **hazard to somebody/something** *Growing levels of pollution represent a serious ***health hazard*** to the local population.*
+		- **hazard of (doing) something** *Everybody is aware of the hazards of smoking.*
+	-

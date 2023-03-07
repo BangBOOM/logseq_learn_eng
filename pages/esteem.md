@@ -8,5 +8,11 @@
 - verb
 	- *(formal)*not used in the progressive tenses
 	- [usually passive] to respect and admire somebody/something very much
-		-
+		- **be esteemed (by somebody)** *Many of these qualities are esteemed by managers.*
+		- *a ***highly esteemed*** scientist*
+		- **be esteemed as something** *He was esteemed as a dedicated and imaginative scholar.*
+		- **be esteemed among somebody** *This rose is esteemed among connoisseurs for its colour and scent.*
+	- **esteem somebody/something + noun** *(old-fashioned, formal)* to think of somebody/something in a particular way
+		- *We esteem it a privilege to have you with us.*
+		- *She was esteemed the perfect novelist.*
 -
