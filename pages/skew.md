@@ -1,4 +1,6 @@
 - /skjuː/
 - verb
 - [transitive] **skew something** to change or influence something with the result that it is not accurate, fair, normal, etc.
--
+	- *to skew the statistics*
+- [intransitive] **+ adv./prep.** *(British English)* to move or lie at an angle, especially in a position that is not normal
+	- *The ball skewed off at a right angle.*
