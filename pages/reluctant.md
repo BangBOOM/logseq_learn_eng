@@ -1,0 +1,7 @@
+- /rɪˈlʌktənt/
+- adjective
+- hesitating before doing something because you do not want to do it or because you are not sure that it is the right thing to do
+	- *He finally gave a reluctant smile.*
+	- **reluctant to do something** *She was reluctant to admit she was wrong.*
+	- *a ***reluctant hero*** (= a person who does not want to be called a hero)*
+- OPPOSITE [**eager**](https://www.oxfordlearnersdictionaries.com/definition/english/eager)
