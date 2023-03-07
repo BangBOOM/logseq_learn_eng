@@ -1,4 +1,4 @@
-- fragile #card
+- fragile
 	- phonetic
 		- /ˈfɹædʒəl/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/fragile-us.mp3"></audio>

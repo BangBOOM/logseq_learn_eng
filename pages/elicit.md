@@ -1,4 +1,4 @@
-- elicit #card
+- elicit
 	- phonetic
 		- /ɪˈlɪsɪt/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/elicit-us.mp3"></audio>

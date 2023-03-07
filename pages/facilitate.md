@@ -1,4 +1,4 @@
-- facilitate #card
+- facilitate
 	- phonetic
 		- /fəˈsɪləteɪt/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/facilitate-us.mp3"></audio>

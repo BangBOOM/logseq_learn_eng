@@ -1,4 +1,4 @@
-- eligible #card
+- eligible
   card-last-interval:: -1
   card-repeats:: 0
   card-ease-factor:: 2.5

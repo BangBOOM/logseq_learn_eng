@@ -1,4 +1,4 @@
-- discriminate #card
+- discriminate
 	- phonetic
 		- /dɪsˈkɹɪmɪneɪt/
 	- verb
