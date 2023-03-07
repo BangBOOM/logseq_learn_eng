@@ -1,0 +1,7 @@
+- /ɪˌlæbəˈreɪʃn/
+- noun
+	- a detailed explanation or description of something
+		- *the elaboration of an idea*
+		- *The importance of the plan needs no further elaboration.*
+	- the development of a complicated or detailed plan, idea, etc.
+		-
