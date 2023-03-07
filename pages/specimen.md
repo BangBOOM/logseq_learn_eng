@@ -1,0 +1,8 @@
+- specimen
+	- phonetic
+		- /ˈspɛsɪmɪn/
+	- noun
+		- An individual instance that represents a class; an example.
+		- A sample, especially one used for diagnostic analysis.
+		- (often preceded with “fine”) An eligible man.
+- 样本

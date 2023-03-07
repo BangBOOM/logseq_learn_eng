@@ -1,0 +1,10 @@
+- verb
+- /səˈsteɪn/
+- **sustain somebody/something** to provide enough of what somebody/something needs in order to live or exist
+	- *Which planets can sustain life?*
+	- *I only had a little chocolate to sustain me on my walk.*
+	- *The love and support of his family sustained him during his time in prison.*
+- **sustain something** to make something continue for some time without becoming less
+	- SYNONYM [**maintain**](https://www.oxfordlearnersdictionaries.com/definition/english/maintain)
+	- *She managed to sustain everyone's interest until the end of her speech.*
+	-
