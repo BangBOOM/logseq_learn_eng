@@ -1,2 +1,11 @@
 - noun
--
+- /prɪˈtenʃn/
+- [countable, usually plural, uncountable]
+	- the act of trying to appear more important, intelligent, etc. than you are in order to impress other people
+		- *intellectual pretensions*
+		- *The play mocks the pretensions of the new middle class.*
+		- *He spoke without pretension.*
+		- *She was a bored housewife with social pretensions.*
+		- *She was charmed by his lack of pretension.*
+	- a claim to be or to do something
+		- **pretension to (doing) something** *a building with no pretensions to architectural merit*
