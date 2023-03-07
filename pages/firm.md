@@ -8,4 +8,12 @@
 		- *She works for a firm of management consultants based in London.*
 - adjective
 	- (comparative **firmer**, superlative **firmest**)
-	-
+	- fairly hard; not easy to press into a different shape
+		- *a firm bed/mattress*
+		- *These peaches are still firm.*
+		- *It was good to feel the firm ground underfoot after hours of trudging through flooded fields.*
+		- *Bake the cakes until they are firm to the touch.*
+- verb
+	- [transitive] **firm something** to make something become stronger or harder
+		- *Firm the soil around the plant.*
+		- *This product claims to firm your body in six weeks.*

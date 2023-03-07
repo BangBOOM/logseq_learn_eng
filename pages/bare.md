@@ -1,0 +1,4 @@
+- /beə(r)/
+- adjective
+	- not covered by any clothes
+	-
