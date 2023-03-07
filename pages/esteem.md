@@ -1,0 +1,12 @@
+- /ɪˈstiːm/
+- noun
+	- [uncountable] *(formal)*
+	- great respect and approval; a good opinion of somebody
+		- *She is ***held in high esteem*** by her colleagues.*
+		- *Over the years, he has earned our affection and esteem.*
+		- *Please accept this small gift as a token of our esteem.*
+- verb
+	- *(formal)*not used in the progressive tenses
+	- [usually passive] to respect and admire somebody/something very much
+		-
+-
