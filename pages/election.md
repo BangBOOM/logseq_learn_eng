@@ -1,4 +1,4 @@
-- election #card
+- election
 	- phonetic
 		- /əˈlɛkʃ(ə)n/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/election-us.mp3"></audio>
@@ -9,7 +9,7 @@
 		- Any conscious choice.
 		- In Calvinism, God's predestination of saints including all of the elect.
 		- Those who are elected.
-- elect #card
+- elect
 	- phonetic
 		- /iːˈlɛkt/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/elect-us.mp3"></audio>

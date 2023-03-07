@@ -1,4 +1,4 @@
-- laundry #card
+- laundry
 	- phonetic
 		- /ˈlɔːn.dɹi/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/laundry-us.mp3"></audio>

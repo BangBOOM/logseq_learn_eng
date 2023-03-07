@@ -1,4 +1,4 @@
-- increment #card
+- increment
 	- phonetic
 		- /ˈɪŋkɹɪmn̩t/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/increment-uk.mp3"></audio>

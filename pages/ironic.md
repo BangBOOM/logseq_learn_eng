@@ -1,4 +1,4 @@
-- ironic #card
+- ironic
 	- phonetic
 		- /aɪˈɹɒn.ɪk/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/ironic-uk.mp3"></audio>

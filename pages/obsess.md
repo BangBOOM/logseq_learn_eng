@@ -1,4 +1,4 @@
-- obsess #card
+- obsess
 	- phonetic
 		- /əbˈsɛs/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/obsess-uk.mp3"></audio>

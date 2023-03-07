@@ -1,4 +1,4 @@
-- decline #card
+- decline
 	- phonetic
 		- /dɪˈklaɪn/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/decline-us.mp3"></audio>

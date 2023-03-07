@@ -1,4 +1,4 @@
-- liberate #card
+- liberate
 	- phonetic
 		- /ˈlɪbəɹeɪt/
 	- verb

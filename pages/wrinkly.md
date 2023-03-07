@@ -1,4 +1,4 @@
-- wrinkly #card
+- wrinkly
 	- noun
 		- An old person.
 	- adjective

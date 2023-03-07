@@ -1,4 +1,4 @@
-- consequence #card
+- consequence
 	- phonetic
 		- /ˈkɑnsɪkwəns/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/consequence-us.mp3"></audio>

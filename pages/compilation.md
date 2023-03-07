@@ -1,4 +1,4 @@
-- compilation #card
+- compilation
 	- phonetic
 	  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/compilation-us.mp3"></audio>
 	- noun

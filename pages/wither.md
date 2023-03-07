@@ -1,4 +1,4 @@
-- wither #card
+- wither
 	- phonetic
 		- /ˈwɪðə/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/wither-uk.mp3"></audio>

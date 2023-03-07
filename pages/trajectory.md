@@ -1,4 +1,4 @@
-- trajectory #card
+- trajectory
 	- phonetic
 		- /tɹəˈdʒɛktəɹɪ/
 		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/trajectory-us.mp3"></audio>
