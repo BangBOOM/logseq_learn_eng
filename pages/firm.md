@@ -1,0 +1,11 @@
+- /fɜːm/
+- noun
+	- a business or company
+		- *a ***law/consulting/research firm****
+		- *an ***accounting/investment firm****
+		- *They ***hired*** an engineering ***firm*** to produce a model of their device.*
+		- **a firm of something** *a firm of solicitors/accountants/architects*
+		- *She works for a firm of management consultants based in London.*
+- adjective
+	- (comparative **firmer**, superlative **firmest**)
+	-
