@@ -1,4 +1,18 @@
 - /beə(r)/
 - adjective
 	- not covered by any clothes
-	-
+		- *She likes to walk around in ***bare feet***.*
+		- *They wore shabby clothes and their feet were bare.*
+		- *His bare legs were covered in wiry golden hairs.*
+	- (of trees or countryside) not covered with leaves; without plants or trees
+		- *The winter sun filtered through the bare branches of the trees.*
+		- *a bare mountainside*
+		- *We looked out over a bare, open landscape, stripped of vegetation.*
+	- (of surfaces and objects) not covered with or protected by anything
+		- *bare wooden floorboards*
+		- *Bare wires were sticking out of the cable.*
+		- *The walls were bare except for a clock.*
+- verb
+	- **bare something** to remove something that covers something else, especially from part of the body
+		- *She was paid several thousand dollars to ***bare all*** (= take all her clothes off) for the magazine.*
+-
