@@ -1,0 +1,4 @@
+- /ˈpɒvəti/
+- noun
+- [uncountable] the state of being poor
+	-
