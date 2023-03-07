@@ -4,4 +4,6 @@
 	- *of inferior quality*
 	- *inferior goods*
 	- *to make somebody ***feel inferior****
-	-
+	- **inferior to somebody/something** *Modern music is often considered inferior to that of the past.*
+- [usually before noun] *(formal)* of lower rank; lower
+	- *an inferior officer*
