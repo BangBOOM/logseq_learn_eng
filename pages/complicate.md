@@ -1,0 +1,7 @@
+- /ˈkɒmplɪkeɪt/
+- verb
+- **complicate something** to make something more difficult to do, understand or deal with
+	- *I do not wish to complicate the task more than is necessary.*
+	- ***To complicate matters*** further, there will be no transport available till 8 o'clock.
+	- *The issue ***is complicated by the fact that*** a vital document is missing.*
+-
