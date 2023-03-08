@@ -1,0 +1,4 @@
+- /dɪˈtɜːdʒənt/
+- noun
+	- a liquid or powder that helps remove dirt, for example from clothes or dishes
+-

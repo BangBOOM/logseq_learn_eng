@@ -5,3 +5,5 @@
 		- *His decapitated body was found floating in a canal.*
 	- **decapitate something** to reduce the power of a group or organization by removing its leaders
 		- *Decapitating the regime led to years of chaos.*
+		- *The party has effectively been decapitated.*
+	-

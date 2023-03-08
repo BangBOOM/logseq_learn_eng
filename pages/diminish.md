@@ -1,0 +1,5 @@
+- /dɪˈmɪnɪʃ/
+- verb
+	- [intransitive, transitive] to become smaller, weaker, etc.; to make something become smaller, weaker, etc.
+		- SYNONYM [**decrease**](https://www.oxfordlearnersdictionaries.com/definition/english/decrease_1)
+		-
