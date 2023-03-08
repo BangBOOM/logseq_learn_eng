@@ -2,4 +2,14 @@
 - noun
 	- [countable] the system of laws and basic principles that a state, a country or an organization is governed by
 		- *your right to vote under the constitution*
-		-
+		- *According to the constitution…*
+		- *to propose a new amendment to the Constitution*
+	- [countable] the condition of a person’s body and how healthy it is
+		- *to have a ***healthy/strong/weak constitution**
+	- [uncountable, countable] *(formal)* the way something is formed or organized
+		- SYNONYM [**structure**](https://www.oxfordlearnersdictionaries.com/definition/english/structure_1)
+		- *the genetic constitution of cells*
+	- [uncountable] *(formal)* the act of forming something
+		- SYNONYM [**establishment**](https://www.oxfordlearnersdictionaries.com/definition/english/establishment)
+		- *He recommended the constitution of a review committee.*
+-
