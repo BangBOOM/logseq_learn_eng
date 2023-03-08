@@ -1,0 +1,6 @@
+- /dɪˈspærɪdʒ/
+- verb
+	- **disparage somebody/something** to suggest that somebody/something is not important or valuable
+		- SYNONYM [**belittle**](https://www.oxfordlearnersdictionaries.com/definition/english/belittle)
+		- *I don't mean to disparage your achievements.*
+	-

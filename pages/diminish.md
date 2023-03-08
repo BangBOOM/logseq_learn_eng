@@ -2,4 +2,10 @@
 - verb
 	- [intransitive, transitive] to become smaller, weaker, etc.; to make something become smaller, weaker, etc.
 		- SYNONYM [**decrease**](https://www.oxfordlearnersdictionaries.com/definition/english/decrease_1)
-		-
+		- *The world's resources are rapidly diminishing.*
+		- *His influence has diminished with time.*
+		- **diminish something** *The new law is expected to diminish the government's chances.*
+	- [transitive] **diminish somebody/something** to make somebody/something seem less important than they really are
+		- *I don't wish to diminish the importance of their contribution.*
+		- *The trial has aged and diminished him.*
+-
