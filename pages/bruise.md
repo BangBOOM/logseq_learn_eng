@@ -1,0 +1,5 @@
+- /bruːz/
+- noun
+	- a blue, brown or purple mark that appears on the skin after somebody has fallen, been hit, etc.
+		- *His legs were covered in bruises.*
+		-

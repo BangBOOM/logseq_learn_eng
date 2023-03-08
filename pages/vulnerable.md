@@ -1,0 +1,6 @@
+- /ˈvʌlnərəbl/
+- adjective
+- vulnerable (to somebody/something) weak and easily hurt physically or emotionally.
+	- *These offices are highly vulnerable to terrorist attack.*
+	- *She looked very vulnerable standing there on her own.*
+	- *We should protect the most vulnerable members of our society.*
