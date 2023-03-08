@@ -1,0 +1,6 @@
+- /məˈtjʊərəti/
+- noun
+	- [uncountable]
+	- the quality of thinking and behaving in a sensible, adult manner
+		- *He has maturity beyond his years.*
+		-

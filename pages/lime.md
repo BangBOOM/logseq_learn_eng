@@ -1,0 +1,9 @@
+- /laɪm/
+- noun
+	- [uncountable] a white substance obtained by heating [limestone](https://www.oxfordlearnersdictionaries.com/definition/english/limestone), used in building materials and to help plants grow
+		- 石灰
+	- [countable, uncountable] a small green fruit, like a lemon, with juice that has a bitter, sharp taste, used in cooking and in drinks; the juice of this fruit
+		- 酸橙
+		- *lime juice*
+		- *slices of lime*
+-
