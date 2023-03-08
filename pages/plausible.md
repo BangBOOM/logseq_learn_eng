@@ -4,4 +4,6 @@
 		- *Her story sounded perfectly plausible.*
 		- *The only plausible explanation is that he forgot.*
 		- OPPOSITE [**implausible**](https://www.oxfordlearnersdictionaries.com/definition/english/implausible)
-	-
+	- *(disapproving)* (of a person) good at sounding honest and sincere, especially when trying to trick people
+		- *She was a plausible liar.*
+-

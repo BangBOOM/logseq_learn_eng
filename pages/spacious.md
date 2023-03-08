@@ -1,0 +1,4 @@
+- /ˈspeɪʃəs/
+- adjective
+	- (of a room or building) large and ==with plenty of space== for people to move around in
+		- *The hotel rooms are spacious and comfortable.*
