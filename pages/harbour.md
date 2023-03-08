@@ -10,4 +10,7 @@
 	- **harbour somebody** to hide and protect somebody who is hiding from the police
 		- *Police believe someone must be harbouring the killer.*
 	- **harbour something** to keep feelings or thoughts, especially negative ones, in your mind for a long time
-		-
+		- *She began to harbour doubts about the decision.*
+		- *to harbour thoughts of revenge*
+		- **harbour something** to contain something and allow it to develop
+-

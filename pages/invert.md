@@ -1,0 +1,6 @@
+- /ɪnˈvɜːt/
+- verb
+	- **invert something** *(formal)* to change the normal position of something, especially by turning it into a position in which the top of it is where the bottom of it normally is or by arranging it in the opposite order
+		- *Place a plate over the cake tin and invert it.*
+		- *The shape looked like an inverted V.*
+-
