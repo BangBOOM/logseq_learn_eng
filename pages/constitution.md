@@ -1,0 +1,5 @@
+- /ˌkɒnstɪˈtjuːʃn/
+- noun
+	- [countable] the system of laws and basic principles that a state, a country or an organization is governed by
+		- *your right to vote under the constitution*
+		-

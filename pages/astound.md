@@ -1,0 +1,7 @@
+- /əˈstaʊnd/
+- verb
+	- **astound somebody** to surprise or shock somebody very much
+		- SYNONYM [**astonish**](https://www.oxfordlearnersdictionaries.com/definition/english/astonish)
+		- *His arrogance astounded her.*
+		- *She was astounded by his arrogance.*
+		-
