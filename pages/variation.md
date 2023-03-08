@@ -1,0 +1,12 @@
+- phonetic
+	- /ˌvæɹiˈeɪʃn̩/
+	  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/variation-us.mp3"></audio>
+- noun
+	- The act of varying; a partial change in the form, position, state, or qualities of a thing.
+	- A related but distinct thing.
+	- The angular difference at the vessel between the direction of true north and magnetic north.
+	- A line of play that differs from the original.
+	- A technique where material is repeated with alterations to the melody, harmony, rhythm, timbre, texture, counterpoint or orchestration; but with some invariant characteristic, e.g. a ground bass.
+	- The modification of a hereditary trait.
+	- Deviation from the mean orbit of a heavenly body.
+-

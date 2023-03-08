@@ -1,0 +1,4 @@
+- /ˈvɪskəs/
+- adjective
+	- (of a liquid) thick and sticky; not flowing freely
+-
