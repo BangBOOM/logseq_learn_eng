@@ -1,3 +1,7 @@
 - /ˈkaʊntə(r)/
 - noun
+	- a long flat surface over which goods are sold or business is done in a shop, bank, etc. 柜台
+		- **behind the counter** *I asked the woman behind the counter if they had any postcards.*
+	- a person who counts something, for example votes in an election
+		- *You can get computers to help the counters to count the votes.*
 	-
