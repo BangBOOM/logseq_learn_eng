@@ -1,3 +1,10 @@
 - /æpt/
 - adjective
--
+	- suitable or appropriate in the circumstances
+		- a particularly apt description/name/comment
+		- *The song would have been more apt for a bass voice.*
+		- *It was a particularly apt name for someone with his skills.*
+	- likely or tending naturally to do something
+		- **apt to be…*** **apt to be forgetful/careless*
+		- **apt to do something** *Babies are apt to put objects into their mouths.*
+	-
