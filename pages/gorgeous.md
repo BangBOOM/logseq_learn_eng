@@ -1,1 +1,12 @@
 - /ˈɡɔːdʒəs/
+- adjective
+	- *(informal)* very beautiful and attractive; giving great pleasure
+		- SYNONYM [**lovely**](https://www.oxfordlearnersdictionaries.com/definition/english/lovely_1)
+		- *a gorgeous girl/man*
+		- *a gorgeous view*
+		- *gorgeous weather (= warm and with a lot of sun)*
+		- *You ***look gorgeous***!*
+		- *It was ***absolutely gorgeous***.*
+	- [usually before noun] (of colours, clothes, etc.) with very deep colours; impressive
+		- *exotic birds with feathers of gorgeous colours*
+-
