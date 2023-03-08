@@ -1,0 +1,7 @@
+- /ˈplɔːzəbl/
+- adjective
+	- (of an excuse or explanation) reasonable and likely to be true
+		- *Her story sounded perfectly plausible.*
+		- *The only plausible explanation is that he forgot.*
+		- OPPOSITE [**implausible**](https://www.oxfordlearnersdictionaries.com/definition/english/implausible)
+	-

@@ -1,2 +1,4 @@
 - /ˌpætriˈɒtɪk/
--
+- adjective
+	- having or expressing a great love of your country
+		- *a patriotic man who served his country well*
