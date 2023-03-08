@@ -2,4 +2,10 @@
 - noun
 	- a blue, brown or purple mark that appears on the skin after somebody has fallen, been hit, etc.
 		- *His legs were covered in bruises.*
-		-
+	- a mark on a fruit or vegetable where it is damaged
+- verb
+	- [intransitive, transitive] to develop a [bruise](https://www.oxfordlearnersdictionaries.com/definition/english/bruise_1), or make a [bruise](https://www.oxfordlearnersdictionaries.com/definition/english/bruise_1) or bruises appear on the skin of somebody/something
+		- **bruise something** *She had slipped and badly bruised her face.*
+	- [transitive, usually passive] to affect somebody badly and make them feel unhappy and less confident
+		- **be bruised (by something)** *They had been badly bruised by the defeat.*
+-
