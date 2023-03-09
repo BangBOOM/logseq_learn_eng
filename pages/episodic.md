@@ -1,3 +1,9 @@
 - /ˌepɪˈsɒdɪk/
 - adjective
-	-
+	- happening ==occasionally== and not at regular [intervals](https://www.oxfordlearnersdictionaries.com/definition/english/interval#interval_topg_1)
+	- *her episodic acting career*
+	- *Volcanic activity is highly episodic in nature.*
+- (of a story, etc.) containing or consisting of many ==separate== and different events
+	- *My memories of childhood are hazy and episodic.*
+	- *The film is an episodic account of the effect of the war on a small community.*
+-
