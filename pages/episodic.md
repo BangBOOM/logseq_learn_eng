@@ -1,0 +1,3 @@
+- /ˌepɪˈsɒdɪk/
+- adjective
+	-
