@@ -1,0 +1,4 @@
+- /frɔːd/
+- noun
+	- [uncountable, countable] the crime of cheating somebody in order to get money or goods illegally
+		-

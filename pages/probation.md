@@ -1,4 +1,10 @@
 - /prəˈbeɪʃn/
 - noun
 	- [uncountable]
-	-
+	- *(law)* a system that allows a person who has committed a crime not to go to prison if they behave well and if they see an official (called a [probation officer](https://www.oxfordlearnersdictionaries.com/definition/english/probation-officer)) regularly for a fixed period of time
+		- *He was given two years' probation.*
+		- **on probation** *The prisoner was put on probation.*
+	- a time of training and testing when you start a new job to see if you are suitable for the work
+		- *a period of probation*
+		- *Once your probation period is successfully completed, you will be offered a contract.*
+-
