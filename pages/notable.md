@@ -1,2 +1,10 @@
 - /ˈnəʊtəbl/
+- adjective
+	- deserving to be noticed or to receive attention; important
+		- SYNONYM [**striking**](https://www.oxfordlearnersdictionaries.com/definition/english/striking)
+		- *a ***notable success/achievement/example****
+		- *His eyes are his most ***notable feature***.*
+		- **notable (for something)** *The town is notable for its ancient [[harbour]].*
+		- ***With a few notable exceptions***, everyone gave something.
+-
 -

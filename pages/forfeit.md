@@ -1,0 +1,4 @@
+- /ˈfɔːfɪt/
+- verb
+	- **forfeit something** to lose something or have something taken away from you because you have done something wrong
+		- *He has forfeited his right to be taken seriously.*
