@@ -1,4 +1,9 @@
 - /frɔːd/
 - noun
 	- [uncountable, countable] the crime of cheating somebody in order to get money or goods illegally
-		-
+		- *She was charged with credit card fraud.*
+		- *It was said that the property had been obtained by fraud.*
+	- [countable] a person who pretends to have qualities, abilities, etc. that they do not really have in order to cheat other people
+		- *He's nothing but a liar and a fraud.*
+		- *She felt a fraud accepting their sympathy (= because she was not really sad).*
+	-
