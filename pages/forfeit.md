@@ -2,3 +2,9 @@
 - verb
 	- **forfeit something** to lose something or have something taken away from you because you have done something wrong
 		- *He has forfeited his right to be taken seriously.*
+	- **forfeit something** to lose or give something up as a necessary consequence of something that you have done
+		- *If you cancel your flight, you will forfeit your deposit.*
+- noun
+	- something that a person has to pay, or something that is taken from them, because they have done something wrong, or as a necessary consequence of something they have done
+	- 罚款
+-
