@@ -1,0 +1,7 @@
+- /kənˈsɜːv/
+- verb
+	- **conserve something** to protect something and prevent it from being changed or destroyed
+		- *new laws to conserve wildlife in the area*
+	- **conserve something** to use as little of something as possible so that it lasts a long time
+		- *Help to conserve energy by insulating your home.*
+		- *Renewable energy resources can help conserve fossil fuels and reduce carbon emissions.*
