@@ -1,0 +1,3 @@
+- /ˈɪndələnt/
+- adjective
+	- not wanting to work
