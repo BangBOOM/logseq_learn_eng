@@ -2,4 +2,9 @@
 - verb
 	- **taunt somebody** to try to make somebody angry or upset by saying unkind things about them, laughing at their failures, etc.
 		- *The other kids continually taunted him about his size.*
+- noun
+	- an offensive or unkind remark that is intended to make somebody angry or upset
+		- *Black players often had to endure racist taunts.*
+		- *She ignored his taunt.*
+		- *Their taunts stung him into his best performance for the team yet.*
 -
