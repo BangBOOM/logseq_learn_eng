@@ -1,0 +1,5 @@
+- /ədˈmɪnɪstrətɪv/
+- adjective
+	- connected with organizing the work of a business or an institution
+		- an administrative job/assistant/error
+-
