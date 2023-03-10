@@ -17,5 +17,4 @@
 	- [uncountable] the fact that somebody takes part in social activities at a particular time
 		- **in circulation** *Anne has been ill but now she's back in circulation.*
 		- **out of circulation** *I was out of circulation for months after the baby was born.*
-	-
 -

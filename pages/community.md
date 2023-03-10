@@ -1,0 +1,11 @@
+- noun
+- /kəˈmjuːnəti/
+	- [countable, usually singular] all the people who live in a particular area, country, etc. when talked about as a group
+		- *The ***local community*** supported us from the start.*
+		- ***the international community*** (= the countries of the world as a group)
+		- *It is hoped that the campaign will encourage ***members of the community*** to get active.*
+	- [countable + singular or plural verb] a group of people who share the same religion, race, job, etc.
+		- *the Polish community in London*
+		- ***the business/scientific community***
+		- ***the Muslim/Jewish/Christian community***
+	-
