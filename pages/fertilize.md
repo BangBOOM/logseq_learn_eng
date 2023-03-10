@@ -1,0 +1,6 @@
+- /ˈfɜːtəlaɪz/
+- verb
+- **fertilize something** to put [pollen](https://www.oxfordlearnersdictionaries.com/definition/english/pollen) into a plant so that a seed develops; to join [sperm](https://www.oxfordlearnersdictionaries.com/definition/english/sperm) with an egg so that a baby or young animal develops
+	- *Flowers are often fertilized by bees as they gather nectar.*
+	- *a fertilized egg*
+-
