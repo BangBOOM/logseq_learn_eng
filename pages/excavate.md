@@ -5,4 +5,5 @@
 		- *The area has not yet been fully excavated.*
 		- **excavate something from something** *pottery and weapons excavated from the burial site*
 	- **excavate something** *(formal)* to make a hole, etc. in the ground by digging
-		-
+		- *The body was discovered when builders excavated the area.*
+-
