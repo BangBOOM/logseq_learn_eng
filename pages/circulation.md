@@ -1,0 +1,6 @@
+- /ˌsɜːkjəˈleɪʃn/
+- noun
+	- [uncountable] the movement of blood around the body
+		- *Regular exercise will improve blood circulation.*
+		- to have good/bad circulation
+	-

@@ -1,2 +1,7 @@
-- /əˈfiːld/
--
+- afield
+	- phonetic
+		- /əˈfiːld/
+	- adverb
+		- Away (from the home or starting point, physical or conceptual); usually preceded by far (or farther, further).
+		- On the field.
+		- Out in the open.
