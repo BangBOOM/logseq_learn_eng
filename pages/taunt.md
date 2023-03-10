@@ -1,0 +1,5 @@
+- /tɔːnt/
+- verb
+	- **taunt somebody** to try to make somebody angry or upset by saying unkind things about them, laughing at their failures, etc.
+		- *The other kids continually taunted him about his size.*
+-

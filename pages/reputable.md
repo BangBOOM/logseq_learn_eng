@@ -1,4 +1,7 @@
 - /ˈrepjətəbl/
 - adjective
 	- that people consider to be honest; having a good reputation
-	-
+		- SYNONYM [**respected**](https://www.oxfordlearnersdictionaries.com/definition/english/respect_1)
+		- *a reputable dealer/company/supplier*
+	- COMPARE [**disreputable**](https://www.oxfordlearnersdictionaries.com/definition/english/disreputable)
+-
