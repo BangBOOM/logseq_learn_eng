@@ -3,4 +3,19 @@
 	- [uncountable] the movement of blood around the body
 		- *Regular exercise will improve blood circulation.*
 		- to have good/bad circulation
+	- [uncountable] the passing or spreading of something from one person or place to another
+		- *the ***circulation of money/information/ideas****
+		- **in circulation** *A number of forged tickets are in circulation.*
+		- *The coins were ***taken out of circulation***.*
+		- *Copies of the magazine were ***withdrawn from circulation***.*
+		- *putting computer viruses into circulation*
+	- [countable, usually singular] the usual number of copies of a newspaper or magazine that are sold each day, week, etc.
+		- *a daily circulation of more than one million*
+		- *The newspaper has a daily circulation of 20 000.*
+	- [uncountable, countable] the movement of something (for example air, water, gas, etc.) around an area or inside a system or machine
+		- *Poor air circulation can cause condensation.*
+	- [uncountable] the fact that somebody takes part in social activities at a particular time
+		- **in circulation** *Anne has been ill but now she's back in circulation.*
+		- **out of circulation** *I was out of circulation for months after the baby was born.*
 	-
+-
