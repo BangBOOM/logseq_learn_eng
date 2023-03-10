@@ -1,0 +1,4 @@
+- /ˌwɜːkəˈhɒlɪk/
+- noun
+	- a person who works very hard and finds it difficult to stop working and do other things
+-
