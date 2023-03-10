@@ -1,5 +1,5 @@
-- noun
 - /kəˈmjuːnəti/
+- noun
 	- [countable, usually singular] all the people who live in a particular area, country, etc. when talked about as a group
 		- *The ***local community*** supported us from the start.*
 		- ***the international community*** (= the countries of the world as a group)
