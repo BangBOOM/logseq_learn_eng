@@ -1,0 +1,14 @@
+- /ˈɪntɪmət/
+- adjective
+	- (of people) having a close and friendly relationship
+		- *intimate friends*
+		- *We're not ***on intimate terms with*** our neighbours.*
+	- private and personal, often in a sexual way
+		- *The article revealed ***intimate details*** about his family life.*
+		- *the most intimate parts of her body*
+	- (of a place or situation) encouraging close, friendly relationships, sometimes of a sexual nature
+		- *an intimate restaurant*
+		- *He knew an intimate little bar where they would not be disturbed.*
+	- (of knowledge) very detailed
+		- *an intimate knowledge of the English countryside*
+	-
