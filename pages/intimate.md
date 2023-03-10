@@ -11,4 +11,9 @@
 		- *He knew an intimate little bar where they would not be disturbed.*
 	- (of knowledge) very detailed
 		- *an intimate knowledge of the English countryside*
-	-
+- verb
+	- to let somebody know what you think or mean
+		- SYNONYM [let it be known/make it known that…](https://www.oxfordlearnersdictionaries.com/definition/english/know_1#know_idmg_20)
+		- **intimate something (to somebody)** *He has already intimated to us his intention to retire.*
+		- **intimate (that)…** *He has already intimated (that) he intends to retire.*
+-

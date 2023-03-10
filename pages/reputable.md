@@ -1,0 +1,4 @@
+- /ˈrepjətəbl/
+- adjective
+	- that people consider to be honest; having a good reputation
+	-
