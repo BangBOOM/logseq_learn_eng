@@ -8,4 +8,10 @@
 		- *the Polish community in London*
 		- ***the business/scientific community***
 		- ***the Muslim/Jewish/Christian community***
-	-
+	- [uncountable] the feeling of sharing things and belonging to a group in the place where you live
+		- *There is a strong ***sense of community*** here.*
+		- *The town has a strong community spirit.*
+	- [countable] a group of people who live together and all equally own and share what they have
+		- *The nuns live in a closed community.*
+	- [countable] *(biology)* a group of plants and animals growing or living in the same place or environment
+		- *a community fish tank*
