@@ -1,0 +1,13 @@
+- /ˈhʌdl/
+- verb
+	- [intransitive] **huddle (up/together) (+ adv./prep.)** (of people or animals) to gather closely together, usually because of cold or fear
+		- *We huddled together for warmth.*
+		- *They all huddled around the fire.*
+		- *People huddled up close to each other.*
+	- [intransitive] **huddle (up) (+ adv./prep.)** to hold your arms and legs close to your body, usually because you are cold or frightened
+		- *I huddled under a blanket on the floor.*
+- noun
+	- a small group of people, objects or buildings that are close together, especially when they are not in any particular order
+		- *People stood around in huddles.*
+		- *They stood in a tight huddle, whispering.*
+	-
