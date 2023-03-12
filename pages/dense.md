@@ -1,0 +1,3 @@
+- /dens/
+- adjective
+	- (comparative **denser**, superlative **densest**)
