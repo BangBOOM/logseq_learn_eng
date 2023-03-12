@@ -1,0 +1,11 @@
+- /kəmˈpænjən/
+- noun
+	- a person or an animal that travels with you or spends a lot of time with you
+		- *travelling companions*
+		- *Geoff was my companion on the journey.*
+		- SEE ALSO [**animal companion**](https://www.oxfordlearnersdictionaries.com/definition/english/animal-companion), [**stable companion**](https://www.oxfordlearnersdictionaries.com/definition/english/stable-companion)
+	- a person who shares your experiences, especially when these are particularly pleasant or unpleasant
+		- *She was a charming dinner companion.*
+		- *His younger brother is not much of a companion for him.*
+		- *They're drinking companions (= they go out drinking together).*
+		-

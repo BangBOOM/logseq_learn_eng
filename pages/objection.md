@@ -1,4 +1,10 @@
 - /əbˈdʒekʃn/
 - noun
 	- a reason why you do not like or are opposed to something; a statement about this
-		-
+		- *I'd like to come too, if you ***have no objection***.*
+		- *They ***raised*** no ***objections*** at the time.*
+		- *He did not know how to voice his objections.*
+		- **objection to something** *The main objection to the plan was that it would cost too much.*
+		- **objection to (somebody) doing something** *I ***have no objection*** to him coming to stay.*
+		- **objection from somebody*** **The proposal will go ahead despite strong objections from the public.*
+	-
