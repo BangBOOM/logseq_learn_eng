@@ -1,0 +1,16 @@
+- /ɪmˈbreɪs/
+- noun
+	- [countable] an act of putting your arms around somebody as a sign of love or friendship
+		- *He held her in a warm embrace.*
+		- *There were tears and embraces as they said goodbye.*
+	- [uncountable] the act of accepting an idea, a proposal, a set of beliefs, etc, especially when it is done with enthusiasm
+		- *the country’s eager embrace of modern technology*
+- verb
+	- [intransitive, transitive] to put your arms around somebody as a sign of love or friendship
+		- SYNONYM [**hug**](https://www.oxfordlearnersdictionaries.com/definition/english/hug_1)
+		- *They embraced and promised to keep in touch.*
+		- **embrace somebody** *She embraced her son warmly.*
+		- *He rose from his chair and embraced her warmly.*
+	- [transitive] **embrace something** to accept an idea, a proposal, a set of beliefs, etc., especially when it is done with enthusiasm
+		- *o embrace democracy/feminism/Islam*
+		- *It is unlikely that such countries will embrace capitalist ideas.*
