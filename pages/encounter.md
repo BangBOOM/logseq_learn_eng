@@ -7,4 +7,16 @@
 		- *I had never encountered such resistance before.*
 	- **encounter somebody/something** *(formal)* to meet somebody, or discover or experience something, especially somebody/something new, unusual or unexpected
 		- SYNONYM [**come across**](https://www.oxfordlearnersdictionaries.com/definition/english/come-across)
-		-
+		- *She was the most remarkable woman he had ever encountered.*
+		- *Plant scientists first encountered the phenomenon in the 1930s.*
+- noun
+	- a meeting, especially one that is sudden, unexpected or violent
+		- *a ***chance encounter****
+		- **encounter with somebody/something** *Three of them were killed in the subsequent encounter with the police.*
+		- *Flaubert was her first encounter with French literature.*
+		- **encounter between A and B** *The story describes the extraordinary encounter between a man and a dolphin.*
+	- a sports match against a particular player or team
+		- *She has beaten her opponent in all of their previous encounters.*
+		- *They lost their second-round encounter against Germany.*
+-
+	-

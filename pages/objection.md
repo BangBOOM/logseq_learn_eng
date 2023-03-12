@@ -1,0 +1,4 @@
+- /əbˈdʒekʃn/
+- noun
+	- a reason why you do not like or are opposed to something; a statement about this
+		-
