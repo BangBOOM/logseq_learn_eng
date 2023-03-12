@@ -14,3 +14,7 @@
 	- [transitive] **embrace something** to accept an idea, a proposal, a set of beliefs, etc., especially when it is done with enthusiasm
 		- *o embrace democracy/feminism/Islam*
 		- *It is unlikely that such countries will embrace capitalist ideas.*
+	- [transitive] **embrace something** to include something
+		- *The talks embraced a wide range of issues.*
+		- *The word ‘mankind’ embraces men, women and children.*
+	-

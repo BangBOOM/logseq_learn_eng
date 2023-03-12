@@ -1,0 +1,10 @@
+- /ɪnˈkaʊntə(r)/
+- verb
+	- **encounter something** to experience something, especially something unpleasant or difficult, while you are trying to do something else
+		- SYNONYM [**meet**](https://www.oxfordlearnersdictionaries.com/definition/english/meet_1#meet_sng_7), [**run into**](https://www.oxfordlearnersdictionaries.com/definition/english/run-into)
+		- *We ***encountered*** a number of ***difficulties ***in the first week.*
+		- *The report details the ***problems encountered*** by families in this situation.*
+		- *I had never encountered such resistance before.*
+	- **encounter somebody/something** *(formal)* to meet somebody, or discover or experience something, especially somebody/something new, unusual or unexpected
+		- SYNONYM [**come across**](https://www.oxfordlearnersdictionaries.com/definition/english/come-across)
+		-
