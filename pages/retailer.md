@@ -1,0 +1,5 @@
+- /ˈriːteɪlə(r)/
+- noun
+	- a person or business that sells goods to the public
+		- *one of the country’s largest food retailers*
+-

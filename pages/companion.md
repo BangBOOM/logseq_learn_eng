@@ -8,4 +8,5 @@
 		- *She was a charming dinner companion.*
 		- *His younger brother is not much of a companion for him.*
 		- *They're drinking companions (= they go out drinking together).*
-		-
+	- a person, usually a woman, employed to live with and help somebody, especially somebody old or ill
+		- *She lived in the house as a companion to our grandmother.*
