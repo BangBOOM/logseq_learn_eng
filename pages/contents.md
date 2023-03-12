@@ -1,1 +1,2 @@
--
+- [[prompts]]
+	- I am learning English, please create a simple story  to help me remember these words: embrace, dense, encounter, huddle.  requirements: add a simple explanation after each word in the story.
