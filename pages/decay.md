@@ -1,0 +1,4 @@
+- /dɪˈkeɪ/
+- noun
+	- the process or result of being destroyed by natural causes or by not being cared for (= of decaying)
+	-
