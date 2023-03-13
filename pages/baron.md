@@ -1,0 +1,3 @@
+- /ˈbærən/
+- noun
+	- a [nobleman](https://www.oxfordlearnersdictionaries.com/definition/english/nobleman) of the lowest rank. In the UK, barons use the title *Lord*; in other countries they use the title *Baron*.

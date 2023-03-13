@@ -2,4 +2,11 @@
 - noun
 	- [uncountable, countable, usually singular] physical desire for food
 		- *He suffered from headaches and ***loss of appetite***.*
-		-
+		- *The walk gave me a good appetite.*
+		- *Don't ***spoil your appetite*** by eating between meals.*
+	- [countable] a strong desire for something
+		- *sexual appetites*
+		- *The preview was intended to ***whet your appetite*** (= make you want more).*
+		- **appetite for something** *The public have an insatiable appetite for scandal.*
+-
+-
