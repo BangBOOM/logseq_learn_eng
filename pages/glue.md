@@ -1,0 +1,14 @@
+- /ɡluː/
+- noun
+	- a sticky substance that is used for joining things together
+		- *All you will need is a sharp knife and a tube of glue.*
+		- *synthetic glues*
+		- *He sticks to her like glue (= never leaves her).*
+		- *(figurative)* *These sports were the glue that held the community together.*
+- verb
+	- to join two things together using glue
+		- SYNONYM [**stick**](https://www.oxfordlearnersdictionaries.com/definition/english/stick_1)
+		- **glue A (to/onto B)** *She glued the label onto the box.*
+		- **glue A and B (together)*** **Glue the two pieces of cardboard together.*
+		- *Make sure the edges are glued down.*
+	-
