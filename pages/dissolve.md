@@ -10,4 +10,5 @@
 		- *The election was announced and parliament was dissolved.*
 	- [intransitive, transitive] to disappear; to make something disappear
 		- *When the ambulance had gone, the crowd dissolved.*
-		-
+		- *The lights in the windows faded and the house dissolved into darkness again.*
+	-
