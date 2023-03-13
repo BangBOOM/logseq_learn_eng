@@ -1,0 +1,8 @@
+- /ˈtrænziənt/
+- adjective
+	- continuing for only a short time
+		- SYNONYM [**fleeting**](https://www.oxfordlearnersdictionaries.com/definition/english/fleeting), [**temporary**](https://www.oxfordlearnersdictionaries.com/definition/english/temporary)
+		- *the transient nature of speech*
+	- staying or working in a place for only a short time, before moving on
+		- *a city with a large transient population (= of students, temporary workers, etc.)*
+-

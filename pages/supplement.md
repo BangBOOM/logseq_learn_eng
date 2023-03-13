@@ -7,4 +7,11 @@
 		- *the Sunday ***colour supplements****
 		- *Our special supplement is packed with ideas for healthy hair.*
 	- **supplement (to something)** a book or a section at the end of a book that gives extra information or deals with a special subject
-		-
+		- *the supplement to the Oxford English Dictionary*
+		- *a supplement to the main report*
+		- *You can use these books as supplements to the basic English course.*
+- verb
+	- to add something to something in order to improve it or make it more complete
+		- **supplement something with something*** **a diet supplemented with vitamin pills*
+		- **supplement something** *He supplements his income by giving private lessons.*
+-
