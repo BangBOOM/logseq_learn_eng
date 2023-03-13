@@ -1,4 +1,10 @@
 - /ɪnˈtaɪtl/
 - verb
 	- [often passive] to give somebody the right to have or to do something
-	-
+		- **be entitled to something** *You will be entitled to your pension when you reach 65.*
+		- *Everyone's entitled to their own opinion.*
+		- **entitle somebody to do something** *This ticket does not entitle you to travel first class.*
+	- [usually passive] to give a title to a book, play, etc.
+		- **be entitled + noun** *He read a poem entitled ‘Salt’.*
+		- *The company launched a huge marketing campaign entitled ‘Buy Blue’.*
+-

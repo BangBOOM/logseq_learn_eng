@@ -1,0 +1,13 @@
+- /lʌl/
+- noun
+	- **lull (in something)** a quiet period between times of activity
+		- *a ***lull in the conversation/fighting****
+		- *Just before an attack everything would go quiet but we knew it was just ***the lull before the storm*** (= before a time of noise or trouble).*
+- verb
+	- [transitive] **lull somebody** to make somebody relaxed and calm
+		- SYNONYM [**soothe**](https://www.oxfordlearnersdictionaries.com/definition/english/soothe)
+		- *The vibration of the engine ***lulled*** the children ***to sleep***.*
+		- *He was lulled by the peaceful sound of the rain.*
+		- *She lulled the baby back to sleep.*
+	- [transitive, intransitive] **lull (something)** to make something, or to become, less strong
+		- *His father's arrival lulled the boy's anxiety.*
