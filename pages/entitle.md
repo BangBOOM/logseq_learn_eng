@@ -1,0 +1,4 @@
+- /ɪnˈtaɪtl/
+- verb
+	- [often passive] to give somebody the right to have or to do something
+	-

@@ -12,3 +12,4 @@
 		- **glue A and B (together)*** **Glue the two pieces of cardboard together.*
 		- *Make sure the edges are glued down.*
 	-
+-
