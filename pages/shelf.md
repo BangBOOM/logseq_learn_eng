@@ -1,0 +1,8 @@
+- shelf
+	- phonetic
+		- /ʃɛlf/
+	- noun
+		- A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.
+		- The capacity of such an object
+		- A projecting ledge that resembles such an object.
+		- A reef, shoal or sandbar.

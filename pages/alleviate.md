@@ -1,0 +1,7 @@
+- /əˈliːvieɪt/
+- verb
+	- **alleviate something** to make something less severe
+		- SYNONYM [**ease**](https://www.oxfordlearnersdictionaries.com/definition/english/ease_2)
+		- *to alleviate suffering*
+		- *A number of measures were taken to alleviate the problem.*
+	-

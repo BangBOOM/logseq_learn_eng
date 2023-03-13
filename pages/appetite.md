@@ -1,0 +1,5 @@
+- /ˈæpɪtaɪt/
+- noun
+	- [uncountable, countable, usually singular] physical desire for food
+		- *He suffered from headaches and ***loss of appetite***.*
+		-
