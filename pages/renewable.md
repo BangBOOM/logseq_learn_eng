@@ -1,0 +1,6 @@
+- noun
+	- A thing that is renewable; especially, a renewable source of energy.
+	- A renewable resource.
+- adjective
+	- Able to be renewed; capable of renewal.
+	- (of a resource) Sustainable; able to be regrown or renewed; having an ongoing or continuous source of supply; not finite.

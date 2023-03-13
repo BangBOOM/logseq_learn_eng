@@ -1,0 +1,12 @@
+- stove
+	- phonetic
+		- /stoʊv/
+		  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/stove-us.mp3"></audio>
+	- noun
+		- A heater, a closed apparatus to burn fuel for the warming of a room.
+		- A device for heating food, (UK) a cooker.
+		- A hothouse (heated greenhouse).
+		- A house or room artificially warmed or heated.
+	- verb
+		- To heat or dry, as in a stove.
+		- To keep warm, in a house or room, by artificial heat.

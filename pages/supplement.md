@@ -1,0 +1,10 @@
+- /ˈsʌplɪmənt/
+- noun
+	- a thing that is added to something else to improve or complete it
+		- ***vitamin/dietary supplements*** (= vitamins and other foods eaten in addition to what you usually eat)
+		- **supplement to something** *Industrial sponsorship is a supplement to government funding.*
+	- an extra separate section, often in the form of a magazine, that is sold with a newspaper
+		- *the Sunday ***colour supplements****
+		- *Our special supplement is packed with ideas for healthy hair.*
+	- **supplement (to something)** a book or a section at the end of a book that gives extra information or deals with a special subject
+		-
