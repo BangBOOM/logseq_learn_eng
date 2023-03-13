@@ -1,0 +1,12 @@
+- /ləʊf/
+- plural **loaves**
+- noun
+	- an amount of bread that has been shaped and baked in one piece
+		- *a loaf of bread*
+		- *Two white loaves, please.*
+- verb
+	- [intransitive] *(informal)*
+	- **loaf (about/around)** to spend your time not doing anything, especially when you should be working
+		- SYNONYM [hang about](https://www.oxfordlearnersdictionaries.com/definition/english/hang-about)
+		- *A group of kids were loafing around outside.*
+-

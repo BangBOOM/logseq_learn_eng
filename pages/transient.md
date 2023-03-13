@@ -5,4 +5,7 @@
 		- *the transient nature of speech*
 	- staying or working in a place for only a short time, before moving on
 		- *a city with a large transient population (= of students, temporary workers, etc.)*
+- noun
+	- a person who stays or works in a place for only a short time, before moving on
+		- *Most of the farm workers are transients.*
 -
