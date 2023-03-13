@@ -15,4 +15,4 @@
 	- [intransitive] if a building or an area **decays**, its condition slowly becomes worse
 		- *decaying inner city areas*
 	- [intransitive] to become less powerful and lose influence over people, society, etc.
-		-
+		- *decaying standards of morality*

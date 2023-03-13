@@ -1,0 +1,13 @@
+- /dɪˈzɒlv/
+- verb
+	- [intransitive] **dissolve (in something)** (of a solid) to mix with a liquid and become part of it
+		- *Salt dissolves in water.*
+		- *Heat gently until the sugar dissolves.*
+	- [transitive] **dissolve something (in something)** to make a solid become part of a liquid
+		- *Dissolve the tablet in water.*
+	- [transitive] **dissolve something** to officially end a marriage, business agreement or parliament
+		- *Their marriage was dissolved in 1999.*
+		- *The election was announced and parliament was dissolved.*
+	- [intransitive, transitive] to disappear; to make something disappear
+		- *When the ambulance had gone, the crowd dissolved.*
+		-
